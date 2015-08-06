@@ -1,0 +1,24 @@
+{
+  "name": "jja_content",
+  "version": "0.0.1",
+  "ignore": [
+    ".tmp",
+    ".bowerrc",
+    ".editorconfig",
+    ".gitignore",
+    ".gitattributes",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "package.json",
+    "jja_content.iml",
+    "README.md",
+    "dist",
+    "grunt",
+    "node_modules",
+    ".sass-cache"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
