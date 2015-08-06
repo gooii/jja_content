@@ -1,0 +1,39 @@
+<div data-ng-style="{'position': 'relative'}">
+    <h4>
+        <b>Browse by date</b> (earliest first)
+    </h4>
+    <a data-ng-class="{ open: volumeIssueGroups.allOpen == true }"
+       data-ng-style="{'display': 'block', 'padding-left': '10px', 'position': 'absolute', 'top': '0px', 'right': '14px'}"
+       data-ng-click="volumeIssueGroups.toggle()">
+        <!-- Bind the link text based on the current volumeIssueGroup state -->
+        <span data-ng-bind="volumeIssueGroups.linkText"></span>
+        <i class="fa fa-sm" data-ng-class="{
+                                'fa-angle-double-down'  : volumeIssueGroups.allOpen == false,
+                                'fa-angle-double-up'    : volumeIssueGroups.allOpen == true
+                            }">
+        </i>
+    </a>
+    <div class="panel-group" ng-class="{ 'collapsed' : group.isCollapsed == true}" ng-repeat="group in results">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a ng-click="group.isCollapsed = !group.isCollapsed">
+                        <span ng-bind="group.year"></span>
+                        <i class="fa fa-lg" ng-class="{
+                                                'fa-angle-double-down': group.isCollapsed == true,
+                                                'fa-angle-double-up'  : group.isCollapsed == false
+                                            }">
+                        </i>
+                    </a>
+                </h4>
+            </div>
+            <div class="panel-body">
+                <div data-ng-repeat="volumeIssue in group.volumeIssues">
+                    <a ng-href="{{volumeIssueUrl(volumeIssue)}}" class="volume-issue" title="{{pick(volumeIssue._source.lifecycle.publication, 'date').date.value}}">
+                      <img ng-src="{{volumeIssue._source.media.image | jjaUiThumbnailUrl}}" alt=""/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
