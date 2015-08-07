@@ -1,0 +1,72 @@
+<div class="navbar navbar-inverse" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-ng-click="header.navbar.collapsed = !header.navbar.collapsed">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" data-ng-href="{{header.homeLink}}">
+            <img data-ng-src="/images/header/logo.png"/>
+        </a>
+    </div>
+    <!-- Back to results link: Only visible if we came from a search -->
+    <ul data-ng-if="header.backToResults.visible" class="nav navbar-nav fixed-left ng-scope">
+        <li>
+            <a data-ng-href="{{header.backToResults.url}}" class="back-to-search ng-scope" data-tooltip-placement="bottom" data-tooltip="Back to search results">
+                <span class="icon"><i class="fa fa-angle-double-left fa-2x"></i></span><span class="text">Results</span>
+            </a>
+        </li>
+    </ul>
+    <div class="navbar-collapse" data-ng-class="{collapse: header.navbar.collapsed}">
+        <ul class="nav navbar-nav navbar-right">
+            <!-- Link -->
+            <li>
+                <a data-ng-href="{{header.homeLink}}{{header.brand.url}}">Home</a>
+            </li>
+            <!-- Link -->
+            <li>
+                <a data-ng-click="header.staticLinkClicked('about')">About</a>
+            </li>
+            <!-- Link with sub options -->
+            <li class="dropdown">
+                <a class="dropdown-toggle">
+                    Browse <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                    <li data-ng-repeat="link in header.browseLinks" class="{{link.class}}" title="{{link.title}}" data-ng-class="{disabled: link.disabled}">
+                        <a data-ng-if="link.path.length > 0" data-ng-disabled="link.disabled" data-ng-href="{{header.homeLink}}{{header.brand.url}}{{link.path}}">
+                            {{link.display}}
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <!-- Link -->
+            <li>
+                <a data-ng-click="header.staticLinkClicked('support')">Support</a>
+            </li>
+            <li data-ng-repeat="item in header.toolbarExtras" class="dropdown">
+                <a class="dropdown-toggle">
+                    <i class="fa fa-lg" data-ng-class="item.icon"></i> <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                    <li data-ng-repeat="item in item.children" title="{{item.title}}">
+                        <a data-ng-click="item.action()">{{item.title}}</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- Render Sign-In item (there is no Sign-Out!) -->
+            <li data-ng-class="{disabled: header.user.accessLevel.type == 'private'}">
+                <a data-tooltip-placement="bottom"
+                   data-ng-click="header.user.accessLevel.type == 'private' || header.user.signIn()"
+                   data-tooltip="{{header.getTooltip('SIGN_IN')}}">
+                    <i class="fa fa-lg" data-ng-class="'fa-sign-in'"></i>
+                </a>
+            </li>
+            <!-- Render toolbar items -->
+            <li data-ng-repeat="toolbarItem in header.toolbarItems" data-ng-class="{disabled: toolbarItem.disabled}">
+                <a data-ng-click="header.toolbarItemClicked(toolbarItem.id)" data-tooltip-placement="{{toolbarItem.tooltipPlacement}}" data-tooltip="{{header.getTooltip(toolbarItem.id)}}"><i class="fa fa-lg" data-ng-class="toolbarItem.icon"></i></a>
+            </li>
+        </ul>
+    </div>
+</div>
