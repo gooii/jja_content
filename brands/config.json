@@ -1,0 +1,31 @@
+[{
+  "id"        : "sparerib",
+  "title"     : "Spare Rib",                 
+  "url"       : "/britishlibrary/sparerib",
+  "filter"    : {                          
+  "field": "journal.summary_title",
+  "value": "Spare Rib"
+  },
+  "images": {
+    "banner": {
+      "path": "/images/sparerib/banner.jpg"
+    },
+    "footer": {
+      "logo": "/images/sparerib/footer-logo.jpg"
+    }
+  }
+},
+{
+  "id"        : "default",
+  "title"     : "Journal Archives",
+  "url"       : "/",
+  "filter"    : null,
+  "images": {
+    "banner": {
+      "path": "/images/banner.jpg"
+    },
+    "footer": {
+      "logo": "/images/footer-logo.jpg"
+    }
+  }
+}]
