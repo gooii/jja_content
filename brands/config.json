@@ -3,8 +3,8 @@
   "title"     : "Spare Rib",                 
   "url"       : "/britishlibrary/sparerib",
   "filter"    : {                          
-  "field": "journal.summary_title",
-  "value": "Spare Rib"
+    "field": "journal.summary_title",
+    "value": "Spare Rib"
   },
   "images": {
     "banner": {
