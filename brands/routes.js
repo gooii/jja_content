@@ -1,4 +1,4 @@
-{
+var routes = {
   "about"                               : "about/about.html",
   "archives"                            : "about/archives.html",
   "developmentroadmap"                  : "about/roadmap.html",
@@ -10,7 +10,7 @@
   "librarians"                          : "support/librarians.html",
   "sitemap"                             : "sitemap/sitemap.html",
   "terms"                               : "terms_of_use/termsofuse.html",
-  "britishlibrary/sparerib/ethicaluse"  : "sparerib_ethicaluse/sparerib_ethicaluse.html"
-  "accessibility"                       : "accessibility/accessibility.html"
+  "britishlibrary/sparerib/ethicaluse"  : "sparerib_ethicaluse/sparerib_ethicaluse.html",
+  "accessibility"                       : "accessibility/accessibility.html",
   "privacy"                             : "privacy_and_cookies/privacyandcookies.html"
-}
+};

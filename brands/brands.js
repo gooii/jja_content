@@ -1,4 +1,4 @@
-[{
+var brands = [{
   "id"        : "sparerib",
   "title"     : "Spare Rib",                 
   "url"       : "/britishlibrary/sparerib",
@@ -28,4 +28,4 @@
       "logo": "/images/footer-logo.jpg"
     }
   }
-}]
+}];
