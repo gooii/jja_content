@@ -26,7 +26,7 @@
             </li>
             <!-- Link -->
             <li>
-                <a data-ng-click="header.staticLinkClicked('about')">About</a>
+                <a ng-href="{{header.createStaticLink('about')}}">About</a>
             </li>
             <!-- Link with sub options -->
             <li class="dropdown">
@@ -43,7 +43,7 @@
             </li>
             <!-- Link -->
             <li>
-                <a data-ng-click="header.staticLinkClicked('support')">Support</a>
+                <a ng-href="{{header.createStaticLink('support')}}">Support</a>
             </li>
             <li data-ng-repeat="item in header.toolbarExtras" class="dropdown">
                 <a class="dropdown-toggle">

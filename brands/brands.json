@@ -1,4 +1,4 @@
-var brands = [{
+[{
   "id"        : "sparerib",
   "title"     : "Spare Rib",                 
   "url"       : "/britishlibrary/sparerib",
@@ -14,18 +14,4 @@ var brands = [{
       "logo": "/images/sparerib/footer-logo.jpg"
     }
   }
-},
-{
-  "id"        : "default",
-  "title"     : "Journal Archives",
-  "url"       : "/",
-  "filter"    : null,
-  "images": {
-    "banner": {
-      "path": "/images/banner.jpg"
-    },
-    "footer": {
-      "logo": "/images/footer-logo.jpg"
-    }
-  }
-}];
+}]

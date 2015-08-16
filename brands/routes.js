@@ -10,7 +10,7 @@ var routes = {
   "librarians"                          : "support/librarians.html",
   "sitemap"                             : "sitemap/sitemap.html",
   "terms"                               : "terms_of_use/termsofuse.html",
-  "britishlibrary/sparerib/ethicaluse"  : "sparerib_ethicaluse/sparerib_ethicaluse.html",
+  "britishlibrary/sparerib/ethicaluse"  : "sparerib/about/ethicaluse.html",
   "accessibility"                       : "accessibility/accessibility.html",
   "privacy"                             : "privacy_and_cookies/privacyandcookies.html"
 };
