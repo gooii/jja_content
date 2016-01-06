@@ -1,0 +1,977 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+Abstracts of Working Papers in Economics	0951-0079	1471-6410	1986	1	1	1992	10	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PYE.html				fulltext			
+Abstracts of Working Papers in Economics	0951-0079	1471-6410	1994	11	1	2004	21	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PYE.html				fulltext			
+Adolescence	0001-8449		1966	1	1	1995	30	120	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/c010.html				fulltext			
+Advanced Composite Materials	0924-3046	1568-5519	1991	1	1	2008	17	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09243046.html				fulltext			
+Advanced Powder Technology	0921-8831	1568-5527	1990	1	2	1991	2	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09218831.html				fulltext			
+Advanced Powder Technology	0921-8831	1568-5527	1993	4	1	1995	6	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09218831.html				fulltext			
+Advanced Powder Technology	0921-8831	1568-5527	1999	10	3	2008	19	5	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09218831.html				fulltext			
+Advanced Robotics	0169-1864	1568-5535	1987	2	4	1989	4	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01691864.html				fulltext			
+Advanced Robotics	0169-1864	1568-5535	1991	6	1	1991	6	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01691864.html				fulltext			
+Advanced Robotics	0169-1864	1568-5535	1993	8	2	1995	10	6	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01691864.html				fulltext			
+Advanced Robotics	0169-1864	1568-5535	1997	12	5	2008	22	12	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01691864.html				fulltext			
+Africa Special Report	0001-9836		1956	1	1	1995	40	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/6013.html				fulltext			
+African Affairs	0001-9909	1468-2621	1901	1	I	1906	5	XX	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/afrafj.html				fulltext			
+African Affairs	0001-9909	1468-2621	1943	42	166	1995	94	377	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/afrafj.html				fulltext			
+African and Asian Studies	1569-2094	1569-2108	1966	1	1	1966	1	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15692094.html				fulltext			
+African and Asian Studies	1569-2094	1569-2108	1968	3	1	1968	3	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15692094.html				fulltext			
+African and Asian Studies	1569-2094	1569-2108	1971	6	2	1973	8	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15692094.html				fulltext			
+African and Asian Studies	1569-2094	1569-2108	1975	10	1	1988	23	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15692094.html				fulltext			
+African and Asian Studies	1569-2094	1569-2108	1990	25	1	2008	7	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15692094.html				fulltext			
+AJS Review	0364-0094	1475-4541	1984	9	1	1999	24	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AJS.html				fulltext			
+AJS Review	0364-0094	1475-4541	2001	25	1	2001	25	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AJS.html				fulltext			
+Alcohol and Alcoholism	0735-0414	1464-3502	1963	1	1	1995	30	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/alcalc.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1893	1		1897	6		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1899	7		1907	16		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1909	17		1911	20		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1913	21		1918	26		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1920	27		1920	27		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1922	28		1922	28		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1925	29		1926	30		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1928	31		1928	31		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1931	32		1931	32		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1934	33		1934	33		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1937	34		1937	34		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1939	35		1939	35		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1943	36		1943	36		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1947	37		1991	80	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Jewish Historical Society, Publications	0164-0178		1993	81	1	1995	83	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3033.html				fulltext			
+American Journal of Germanic Linguistics and Literatures	1040-8207		1989	1	1	2000	12	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JGL.html				fulltext			
+American Journal of Hygiene	0002-9262	1476-6256	1921	1	1	1995	142	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/amjepid.html				fulltext			
+American Literary History	0896-7148	1468-4365	1989	1	1	1995	7	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/alhist.html				fulltext			
+Amphibia-Reptilia	0173-5373	1568-5381	1980	1	1	2008	29	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01735373.html				fulltext			
+Analysis	0003-2638	1467-8284	1933	1	1	1940	7	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/analys.html				fulltext			
+Analysis	0003-2638	1467-8284	1947	8	1	1995	55	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/analys.html				fulltext			
+Analytical Communications	1359-7337	1364-5536	1996	33	2	1999	36	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AC.html				fulltext			
+Analytical Proceedings			1980	17	1	1993	30	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AP.html				fulltext			
+Analytical Proceedings including Analytical Communications			1994	31	1	1995	32	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AI.html				fulltext			
+Ancient Civilizations from Scythia to Siberia		1570-0577	1999	5	3	2000	6	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/0929077X.html				fulltext			
+Ancient Civilizations from Scythia to Siberia		1570-0577	2006	12	3	2006	12	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/0929077X.html				fulltext			
+Ancient Civilizations from Scythia to Siberia		1570-0577	2008	14	1	2008	14	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/0929077X.html				fulltext			
+Ancient Mesoamerica	0956-5361	1469-1787	1990	1	1	1994	5	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ATM.html				fulltext			
+Ancient Mesoamerica	0956-5361	1469-1787	1996	7	1	1998	9	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ATM.html				fulltext			
+Anglo-Saxon England	0263-6751	1474-0532	1972	1		2000	29		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ASE.html				fulltext			
+Animal Biology	1570-7555	1570-7563	2003	53	1	2008	58	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15707555.html				fulltext			
+Annals of Botany	0305-7364	1095-8290	1937	1	1	1995	76	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/annbot.html				fulltext			
+Annals of Occupational Hygiene	0003-4878	1475-3162	1964	7	1	1995	39	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/annhyg.html				fulltext			
+Annals of Oncology	0923-7534	1569-8041	1990	1	1	1995	6	10	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/annonc.html				fulltext			
+Annals of Physical Medicine	1462-0324	1462-0332	1952	1	1	1957	4	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/rheumatology.html				fulltext			
+Annals of Physical Medicine	1462-0324	1462-0332	1959	5	1	1995	34	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/rheumatology.html				fulltext			
+Annual Reports on Analytical Atomic Spectroscopy	0306-1353		1971	1		1984	14		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AA.html				fulltext			
+Annual Reports on the Progress of Chemistry	0365-6217		1904	1		1966	63		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AR.html				fulltext			
+Annual Reports on the Progress of Chemistry, Sect. B	0069-3030	1460-4779	1967	64		2003	99	1	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/OC.html				fulltext			
+Annual Reports on the Progress of Chemistry, Sect. C	0260-1826	1460-4787	1979	76		2004	100	1	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/PC.html				fulltext			
+Annual Reports on the Progress of Chemistry, Section A: General Physical and Inorganic Chemistry	0069-3022		1967	64		1972	69		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/GR.html				fulltext			
+Annual Reports on the Progress of Chemistry, Section A: Inorganic Chemistry	0260-1818	1460-4760	1979	76		2003	99	1	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/IC.html				fulltext			
+Annual Reports on the Progress of Chemistry, Section A: Physical and Inorganic Chemistry	0308-6003		1973	70		1978	75		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/PR.html				fulltext			
+Anthropologica	0003-5459		1955	1		1959	8		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5100.html				fulltext			
+Anthropologica	0003-5459		1961	3	1	1990	32	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5100.html				fulltext			
+Applied Linguistics	0142-6001		1983	4	1	1995	16	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/applij.html				fulltext			
+Applied Psycholinguistics	0142-7164	1469-1817	1980	1	1	1998	19	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/APS.html				fulltext			
+Arab Law Quarterly	0268-0556	1573-0255	1988	3	4	2004	19	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/02680556.html				fulltext			
+Arab Law Quarterly	0268-0556	1573-0255	2006	20	1	2008	22	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/02680556.html				fulltext			
+Arabic Sciences and Philosophy	0957-4239	1474-0524	1991	1	1	1999	9	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ASP.html				fulltext			
+Arabica	0570-5398	1570-0585	1955	2	1	1977	24	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/05705398.html				fulltext			
+Arabica	0570-5398	1570-0585	1979	26	1	1991	38	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/05705398.html				fulltext			
+Arabica	0570-5398	1570-0585	1993	40	2	1993	40	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/05705398.html				fulltext			
+Arabica	0570-5398	1570-0585	1995	42	1	2008	55	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/05705398.html				fulltext			
+Archaeological Dialogues	1380-2038	1478-2294	1994	1	2	2002	9	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ARD.html				fulltext			
+Architectural Research Quarterly	1359-1355	1474-0516	1995	1	1	1997	2	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ARQ.html				fulltext			
+Architectural Research Quarterly	1359-1355	1474-0516	1999	3	1	2000	4	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ARQ.html				fulltext			
+Archive for the Psychology of Religion / Archiv für Religionspychologie	0084-6724	1573-6121	1914	1	1	1914	5	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00846724.html				fulltext			
+Archive for the Psychology of Religion / Archiv für Religionspychologie	0084-6724	1573-6121	1929	4	1	1929	4	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00846724.html				fulltext			
+Archive for the Psychology of Religion / Archiv für Religionspychologie	0084-6724	1573-6121	1936	10	1	1936	10	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00846724.html				fulltext			
+Archive for the Psychology of Religion / Archiv für Religionspychologie	0084-6724	1573-6121	2004	26	1	2005	27	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00846724.html				fulltext			
+Archive for the Psychology of Religion / Archiv für Religionspychologie	0084-6724	1573-6121	2008	30	1	2008	30	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00846724.html				fulltext			
+Archives of Clinical Neuropsychology	0887-6177	1873-5843	1986	1	1	1995	10	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/acn.html				fulltext			
+Arethusa	0004-0975		1968	1	1	1995	28	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/q434.html				fulltext			
+Artificial Intelligence for Engineering, Design, Analysis and Manufacturing	0890-0604	1469-1760	1987	1	1	1997	11	5	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AIE.html				fulltext			
+Asian Perspectives	0066-8435		1957	1	1	1964	8	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z263.html				fulltext			
+Asian Perspectives	0066-8435		1966	9		1982	25	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z263.html				fulltext			
+Asian Perspectives	0066-8435		1984	26	1	1984	26	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z263.html				fulltext			
+Asian Perspectives	0066-8435		1986	27	1	1986	27	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z263.html				fulltext			
+Asian Perspectives	0066-8435		1988	28	1	1988	28	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z263.html				fulltext			
+Asian Perspectives	0066-8435		1990	29	1	1995	34	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z263.html				fulltext			
+Australian Geographer	0004-9182	1465-3311	1928	1	1	1929	1	2	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cage20.html				fulltext			
+Australian Geographer	0004-9182	1465-3311	1931	1	3	1943	4	6	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cage20.html				fulltext			
+Australian Geographer	0004-9182	1465-3311	1945	5	1	1948	5	7	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cage20.html				fulltext			
+Australian Geographer	0004-9182	1465-3311	1950	5	8	1996	27	2	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cage20.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1965	1		1968	4		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1970	6		1970	6		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1972	8		1973	9		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1975	11		1979	15		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1981	17		1981	17		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1983	19	1	1984	19	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Austrian History Yearbook	0067-2378	1558-5255	1991	22		2004	35		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AHY.html				fulltext			
+Batiment International, Building Research and Practice	0182-3329		1975	3	1	1990	18	6	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rbri19.html				fulltext			
+Behavioral and Brain Sciences		1469-1825	1978	1	1	1978	1	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BBS.html				fulltext			
+Behavioral and Brain Sciences		1469-1825	1980	3	1	1989	12	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BBS.html				fulltext			
+Behavioral and Brain Sciences		1469-1825	1993	16	1	1996	19	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BBS.html				fulltext			
+Behavioral Ecology	1045-2249	1465-7279	1990	1	1	1995	6	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/beheco.html				fulltext			
+Behaviour	0005-7959		1948	1	1	1948	1	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00057959.html				fulltext			
+Behaviour	0005-7959		1950	2	1	1951	4	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00057959.html				fulltext			
+Behaviour	0005-7959		1953	5	1	1997	134	15	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00057959.html				fulltext			
+Behaviour	0005-7959		1999	136	1	2008	145	12	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00057959.html				fulltext			
+Behavioural Psychotherapy	0141-3473	1469-1833	1975	3	1	1997	25	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BCP.html				fulltext			
+Biblical Interpretation: A Journal of Contemporary Approaches	0927-2569	1568-5152	1993	1	1	2008	16	5	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09272569.html				fulltext			
+Bioinformatics	1367-4803	1460-2059	1985	1	1	1995	11	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/bioinfo.html				fulltext			
+Biometrika	0006-3444	1464-3510	1901	1	1	1905	4	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1909	6	4	1911	8	1-2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1913	9	1-2	1916	11	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1919	12	3-4	1921	13	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1923	15	3-4	1923	15	3-4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1925	17	1-2	1925	17	1-2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1927	19	1-2	1928	20A	3-4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1931	22	3-4	1935	27	3-4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1939	30	3-4	1942	32	3-4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Biometrika	0006-3444	1464-3510	1944	33	2	1995	82	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/biomet.html				fulltext			
+Books Abroad	0196-3570		1927	1	1	1995	69	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/8211.html				fulltext			
+Brain	0006-8950	1460-2156	1878	1	1	1995	118	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/brain.html				fulltext			
+British Journal of Anaesthesia	0007-0912	1471-6771	1923	1	1	1995	74	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/brjana.html				fulltext			
+British Journal of Anaesthetic and Recovery Nursing	1742-6456	1744-2192	2000	1	1	2004	5	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ARN.html				fulltext			
+British Journal of Applied Physics	0508-3443		1950	1	1	1967	18	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0508-3443.html				fulltext			
+British Journal of Criminology	0007-0955	1464-3529	1960	1	1	1995	35	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/crimin.html				fulltext			
+British Journal of Music Education	0265-0517	1469-2104	1984	1	1	1998	15	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BME.html				fulltext			
+British Journal of Nutrition	0007-1145	1475-2662	1947	1	1	2006	96	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BJN.html				fulltext			
+British Journal of Political Science	0007-1234	1469-2112	1971	1	1	1996	26	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JPS.html				fulltext			
+British Journal of Social Work	0045-3102		1971	1	1	1995	25	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/bjsw.html				fulltext			
+British Medical Bulletin	0007-1420	1471-8391	1943	1	1	1995	51	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/bmbull.html				fulltext			
+Building Research & Information	0961-3218	1466-4321	1991	19	1	1996	24	6	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rbri20.html				fulltext			
+Building Research and Practice	0306-9931		1973	1	1	1974	2	6	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rbri18.html				fulltext			
+Bulletin of Entomological Research	0007-4853	1475-2670	1910	1	2	1998	88	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BER.html				fulltext			
+Bulletin of the Australian Mathematical Society	0004-9727	1755-1633	1969	1	1	2007	76	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BAZ.html				fulltext			
+Bulletin of the British Society for the History of Science	0950-5636		1949	1	S1	1958	2	19	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BBH.html				fulltext			
+Bulletin of the British Society for the History of Science	0950-5636		1961	2	20	1961	2	20	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BBH.html				fulltext			
+Bulletin of the International Institute of Social History			1937	1	1	1940	4	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BSH.html				fulltext			
+Bulletin of the International Institute of Social History			1950	5	1	1955	10	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BSH.html				fulltext			
+Bulletin of the School of Oriental and African Studies		1474-0699	1917	1	1	1918	1	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BSO.html				fulltext			
+Bulletin of the School of Oriental and African Studies		1474-0699	1920	1	3	1940	10	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BSO.html				fulltext			
+Bulletin of the School of Oriental and African Studies		1474-0699	1942	10	4	2000	63	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BSO.html				fulltext			
+California Studies in Classical Antiquity	0278-6656		1969	2		1969	2		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d419.html				fulltext			
+California Studies in Classical Antiquity	0278-6656		1971	4		1972	5		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d419.html				fulltext			
+California Studies in Classical Antiquity	0278-6656		1974	6		1974	6		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d419.html				fulltext			
+California Studies in Classical Antiquity	0278-6656		1978	10		1979	11		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d419.html				fulltext			
+California Studies in Classical Antiquity	0278-6656		1981	12		1994	13	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d419.html				fulltext			
+Cambridge Archaeological Journal	0959-7743	1474-0540	1991	1	1	1999	9	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CAJ.html				fulltext			
+Cambridge Journal of Economics		1464-3545	1977	1	1	1995	19	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/cameco.html				fulltext			
+Cambridge Opera Journal	0954-5867	1474-0621	1989	1	1	1999	11	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/OPR.html				fulltext			
+Cambridge Quarterly of Healthcare Ethics	0963-1801	1469-2147	1992	1	1	1997	6	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CQH.html				fulltext			
+Camden Fifth Series	0960-1163	1478-5110	1993	1		2002	21		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHC.html				fulltext			
+Camden Fourth Series	0068-6905		1964	1		1969	7		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHF.html				fulltext			
+Camden Fourth Series	0068-6905		1971	8		1980	25		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHF.html				fulltext			
+Camden Fourth Series	0068-6905		1982	26		1984	30		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHF.html				fulltext			
+Camden Fourth Series	0068-6905		1986	31		1992	44		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHF.html				fulltext			
+Camden New Series	2042-1702	2042-1702	1872	1		1879	25		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHN.html				fulltext			
+Camden New Series	2042-1702	2042-1702	1881	26		1892	51		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHN.html				fulltext			
+Camden New Series	2042-1702	2042-1702	1894	52		1901	62		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHN.html				fulltext			
+Camden Old Series	2042-1699	2042-1699	1838	1		1865	91		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHO.html				fulltext			
+Camden Old Series	2042-1699	2042-1699	1867	92		1872	106		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHO.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1900	1		1900	2		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1902	3		1917	28		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1919	29		1920	31		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1922	32		1922	33		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1924	34		1942	66		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1944	67		1945	69		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1948	79		1954	87		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1956	88		1958	90		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Camden Third Series	2042-1710	2042-1710	1961	91		1963	94		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHR.html				fulltext			
+Canadian Journal of History/Annales canadiennes d'histoire	0008-4107		1966	1	1	1995	30	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b059.html				fulltext			
+Canadian Journal of Political Science	0008-4239	1744-9324	1968	1	1	1999	32	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CJP.html				fulltext			
+Carcinogenesis	0143-3334	1460-2180	1980	1	1	1995	16	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/carcin.html				fulltext			
+Cardiology in the Young	1047-9511	1467-1107	1991	1	1	2000	10	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CTY.html				fulltext			
+cardiovascres		1755-3245	1967	1	1	1995	30	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/cardiovascres.html				fulltext			
+Catholic Historical Review	0008-8080		1915	1		1995	81	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1053.html				fulltext			
+Central European History	0008-9389	1569-1616	1968	1	1	1999	32	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CCC.html				fulltext			
+Cerebral Cortex	1047-3211	1460-2199	1991	1	1	1995	5	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/cercor.html				fulltext			
+Chemical Communications (London)			1965		1	1968		24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/C1.html				fulltext			
+Chemical Communications Cambridge	1359-7345		1996		1	2004	004	024	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CC.html				fulltext			
+Chemical Senses		1464-3553	1974	1	1	1995	20	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/chemse.html				fulltext			
+Chemical Society Reviews	0306-0012	1460-4744	1972	1	1	2004	33	9	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CS.html				fulltext			
+Chicago Review	0009-3696			2	4		2	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5067.html				fulltext			
+Chicago Review	0009-3696		1946	1	1	1986	35	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5067.html				fulltext			
+Chicago Review	0009-3696		1988	36	1	1990	37	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5067.html				fulltext			
+Chicago Review	0009-3696		1992	37	4	1995	41	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5067.html				fulltext			
+Church History	0009-6407	1755-2613	1932	1	1	2003	72	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CHH.html				fulltext			
+City	1360-4813	1470-3629	1996	1	1-2	1996	1	5-6	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/ccit20.html				fulltext			
+Classical and Quantum Gravity	0264-9381		1984	1	1	1998	15	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0264-9381.html				fulltext			
+Classical Weekly	0009-8418		1907	1		1921	16		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3080.html				fulltext			
+Classical Weekly	0009-8418		1923	17		1936	30		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3080.html				fulltext			
+Classical Weekly	0009-8418		1938	31		1996	89	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3080.html				fulltext			
+Clinical Physics and Physiological Measurement	0143-0815		1980	1	1	1992	13	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0143-0815.html				fulltext			
+Combinatorics, Probability and Computing	0963-5483	1469-2163	1992	1	1	1996	5	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CPC.html				fulltext			
+Combustion Theory and Modelling	1364-7830		1997	1	1	1998	2	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1364-7830.html				fulltext			
+Community Development Journal	0010-3802	1468-2656	1966	1	1	1995	30	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/cdj.html				fulltext			
+Comparative Drama	0010-4078		1967	1	1	1985	19	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/h150.html				fulltext			
+Comparative Drama	0010-4078		1987	21	1	1995	29	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/h150.html				fulltext			
+Comparative Sociology	1569-1322	1569-1330	1970	11	1	1970	11	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15691322.html				fulltext			
+Comparative Sociology	1569-1322	1569-1330	1976	17	1	1989	30	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15691322.html				fulltext			
+Comparative Sociology	1569-1322	1569-1330	2000	41	1	2008	7	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15691322.html				fulltext			
+Comparative Studies in Society and History	0010-4175	1475-2999	1958	1	1	1996	38	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CSS.html				fulltext			
+Composite Interfaces	0927-6440	1568-5543	1993	1	1	1998	6	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09276440.html				fulltext			
+Composite Interfaces	0927-6440	1568-5543	2003	10	1	2008	15	6	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09276440.html				fulltext			
+Contemporary European History	0960-7773	1469-2171	1992	1	1	1998	7	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CEH.html				fulltext			
+Contemporary Organic Synthesis	1350-4894		1994	1	1	1997	4	5	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CO.html				fulltext			
+Continuity and Change	0268-4160		1986	1	1	1996	11	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CXN.html				fulltext			
+Contributions to Political Economy	0277-5921	1464-3588	1982	1	1	1995	14	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/conpec.html				fulltext			
+Criticism	0011-1589		1959	1	1	1995	37	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z303.html				fulltext			
+Crustaceana		1568-5403	1960	1	1	2008	81	10	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/0011216X.html				fulltext			
+CrystEngComm		1466-8033	1999	1	1	2004	6	104	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CE.html				fulltext			
+Current History	0011-3530		1941	1	1	1995	94	596	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/7508.html				fulltext			
+Dead Sea Discoveries	0929-0761	1568-5179	1994	1	1	1999	6	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09290761.html				fulltext			
+Dead Sea Discoveries	0929-0761	1568-5179	2006	13	1	2008	15	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09290761.html				fulltext			
+Designed Monomers & Polymers		1568-5551	1998	1	1	2008	11	5	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/1385772X.html				fulltext			
+Development and Psychopathology	0954-5794	1469-2198	1989	1	1	1996	8	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/DPP.html				fulltext			
+Die Welt des Islams	0043-2539	1570-0607	1951	1	1	1959	6	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00432539.html				fulltext			
+Die Welt des Islams	0043-2539	1570-0607	1961	6	3	1966	10	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00432539.html				fulltext			
+Die Welt des Islams	0043-2539	1570-0607	1968	11	1	1969	12	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00432539.html				fulltext			
+Die Welt des Islams	0043-2539	1570-0607	1971	13	1	1971	13	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00432539.html				fulltext			
+Die Welt des Islams	0043-2539	1570-0607	1973	14	1	1982	22	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00432539.html				fulltext			
+Die Welt des Islams	0043-2539	1570-0607	1984	23	1	2008	48	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00432539.html				fulltext			
+Discussions of the Faraday Society	0366-9033		1947	2		1971	52		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/DF.html				fulltext			
+Distributed Systems Engineering	0967-1846		1993	1	1	1998	5	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0967-1846.html				fulltext			
+Early American Literature Newsletter	0012-8163		1966	1	1	1995	30	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/h071.html				fulltext			
+Early Music	0306-1078	1741-7260	1973	1	1	1986	14	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/earlyj.html				fulltext			
+Early Music	0306-1078	1741-7260	1998	1	Index	1998	1	Index	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/earlyj.html				fulltext			
+Early Science and Medicine	1383-7427	1573-3823	1996	1	1	2008	13	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13837427.html				fulltext			
+East European Quarterly	0012-8449		1967	1	2	1995	29	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b094.html				fulltext			
+Ecclesiastical Law Journal		1751-8539	1987	1	1	2006	8	39	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ELJ.html				fulltext			
+Econometric Theory	0266-4666	1469-4360	1985	1	1	1997	13	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ECT.html				fulltext			
+Economics and Philosophy	0266-2671	1474-0028	1985	1	1	1999	15	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/EAP.html				fulltext			
+ELT Journal	0951-0893	1477-4526	1946	1	1	1947	1	7	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eltj.html				fulltext			
+ELT Journal	0951-0893	1477-4526	1981	36	1	1990	44	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eltj.html				fulltext			
+ELT Journal	0951-0893	1477-4526	1992	46	1	1995	49	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eltj.html				fulltext			
+English	0013-8215	1756-1124	1936	1	1	1995	44	180	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/english.html				fulltext			
+English Fiction in Transition (1880-1920)	0013-8339		1957	1	1	1995	38	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/x151.html				fulltext			
+English Language and Linguistics	1360-6743	1469-4379	1997	1	1	1998	2	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ELL.html				fulltext			
+English Studies in Africa	0013-8398		1958	1	1	1995	38	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/4273.html				fulltext			
+English Today	0266-0784	1474-0567	1985	1	1	2000	16	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ENG.html				fulltext			
+Environment and Development Economics		1469-4395	1996	1	1	1996	1	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/EDE.html				fulltext			
+Environmental Conservation	0376-8929	1469-4387	1974	1	1	1996	23	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ENC.html				fulltext			
+Environmental Practice	1466-0466	1466-0474	1999	1	1	2001	3	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ENP.html				fulltext			
+Epidemiologic Reviews		1478-6729	1979	1	1	1995	17	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/epirev.html				fulltext			
+Epidemiology and Infection	0022-1724	1469-4409	1901	1	1	1996	117	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/HYG.html				fulltext			
+Ergodic Theory and Dynamical Systems	0143-3857	1469-4417	1981	1	1	1996	16	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ETS.html				fulltext			
+Essays in Criticism	0014-0856	1471-6852	1951	I	1	1995	XLV	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/escrit.html				fulltext			
+European Business Organization Law Review	1566-7529	1741-6205	2000	1	1	2002	3	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/EBR.html				fulltext			
+European Heart Journal		1522-9645	1980	1	1	1995	16	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ehj.html				fulltext			
+European Journal of Applied Mathematics	0956-7925	1469-4425	1990	1	1	1996	7	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/EJM.html				fulltext			
+European Journal of Crime, Criminal Law and Criminal Justice	0928-9569	1571-8174	1993	1	1	1998	6	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09289569.html				fulltext			
+European Journal of Crime, Criminal Law and Criminal Justice	0928-9569	1571-8174	2005	13	4	2008	16	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09289569.html				fulltext			
+European Journal of Health Law	0929-0273	1571-8093	1994	1	1	1996	3	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09290273.html				fulltext			
+European Journal of Health Law	0929-0273	1571-8093	2006	13	2	2008	15	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09290273.html				fulltext			
+European Journal of International Law	0938-5428	1464-3596	1990	1	1	1995	6	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ejilaw.html				fulltext			
+European Journal of Migration and Law		1571-8166	1999	1	1	2008	10	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/1388364X.html				fulltext			
+European Journal of Physics	0143-0807		1980	1	1	1998	19	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0143-0807.html				fulltext			
+European Journal of Sociology	0003-9756	1474-0583	1960	1	1	2000	41	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/EUR.html				fulltext			
+European Planning Studies	0965-4313	1469-5944	1993	1	1	1996	4	6	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/ceps20.html				fulltext			
+European Review	1062-7987	1474-0575	1993	1	1	2000	8	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ERW.html				fulltext			
+European Review of Agriculture Economics	0165-1587	1464-3618	1973	1	1	1974	2	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eurrag.html				fulltext			
+European Review of Agriculture Economics	0165-1587	1464-3618	1976	3	1	1995	22	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eurrag.html				fulltext			
+European Sociological Review	0266-7215	1468-2672	1985	1	1	1995	11	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eursoj.html				fulltext			
+Exchange	0166-2740		1996	25	1	2008	37	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01662740.html				fulltext			
+Experimental Agriculture	0014-4797	1469-4441	1965	1	1	1996	32	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/EAG.html				fulltext			
+Explicator	0014-4940		1942	1		1995	53	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1084.html				fulltext			
+Explorations in Entrepreneurial History	0014-4983		1949	1	1	1958	10	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/6432.html				fulltext			
+Explorations in Entrepreneurial History	0014-4983		1963	1	1	1990	27	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/6432.html				fulltext			
+Family Practice	0263-2136	1460-2229	1984	1	1	1995	12	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/fampract.html				fulltext			
+Faraday Discussions	1359-6640	1364-5498	1991	92		2004	127	1	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/FD.html				fulltext			
+Faraday Discussions of the Chemical Society	0301-7249		1972	53		1991	91		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/DC.html				fulltext			
+Faraday Special Discussions of the Chemical Society	0370-9302		1972	2		1972	2		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/S1.html				fulltext			
+Faraday Symposia of the Chemical Society	0301-5696		1972	6		1975	10		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/FS.html				fulltext			
+Faraday Symposia of the Chemical Society	0301-5696		1977	11		1978	13		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/FS.html				fulltext			
+Faraday Symposia of the Chemical Society	0301-5696		1980	14		1984	19		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/FS.html				fulltext			
+Faulkner Studies	0011-1619		1952	1	1	1954	3	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/7631.html				fulltext			
+Faulkner Studies	0011-1619		1956	1	1	1956	1	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/7631.html				fulltext			
+Faulkner Studies	0011-1619		1958	2	1	1995	36	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/7631.html				fulltext			
+Fetal and Maternal Medicine Review	0965-5395	1469-5065	1989	1	1	1995	7	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/FMR.html				fulltext			
+Financial History Review	0968-5650	1474-0052	1994	1	1	1999	6	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/FHR.html				fulltext			
+Foreign Affairs; an American Quarterly Review	0015-7120		1922	1	1	1995	74	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1086.html				fulltext			
+Foreign Policy Bulletin	1052-7036	1745-1302	1990	1	1	2000	11	5-6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/FPB.html				fulltext			
+Foreign Policy Bulletin	1052-7036	1745-1302	2002	12	1	2003	14	3-4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/FPB.html				fulltext			
+Forestry		1464-3626	1927	1	1	1945	19	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/foresj.html				fulltext			
+Forestry		1464-3626	1947	20	1	1948	22	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/foresj.html				fulltext			
+Forestry		1464-3626	1950	23	1	1959	32	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/foresj.html				fulltext			
+Forestry		1464-3626	1962	33	1	1995	68	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/foresj.html				fulltext			
+Forum for Modern Language Studies	0015-8518	1471-6860	1965	I	1	1995	XXXI	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/formod.html				fulltext			
+French History	0269-1191	1477-4542	1987	1	1	1995	9	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/french.html				fulltext			
+French Studies	0016-1128	1468-2931	1947	1	1	1947	1	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/frestu.html				fulltext			
+French Studies	0016-1128	1468-2931	1965	XIX	3	1965	XIX	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/frestu.html				fulltext			
+French Studies	0016-1128	1468-2931	1992	XLVI	1	1992	XLVI	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/frestu.html				fulltext			
+French Studies Bulletin	0262-2750	1748-9180	1981	1	1	1995	16	57	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/frebul.html				fulltext			
+Gender, Place & Culture		1360-0524	1994	1	1	1996	3	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cgpc20.html				fulltext			
+Genetical Research	0016-6723	1469-5073	1960	1	1	1996	68	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/GRH.html				fulltext			
+Geological Magazine	0016-7568	1469-5081	1864	1	1	1996	133	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/GEO.html				fulltext			
+German History			1984	1	1	1995	13	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/gh.html				fulltext			
+Glasgow Mathematical Journal	0017-0895		1952	1	1	1998	40	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/GMJ.html				fulltext			
+Glycobiology	0959-6658	1460-2423	1990	1	1	1995	5	8	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/glycob.html				fulltext			
+Greece and Rome	0017-3835	1477-4550	1931	1	1	2000	47	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/GAR.html				fulltext			
+Greek and Byzantine Studies	0017-3916		1958	1	1	1960	3	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5124.html				fulltext			
+Greek and Byzantine Studies	0017-3916		1963	4	1	1986	27	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5124.html				fulltext			
+Greek and Byzantine Studies	0017-3916		1989	30	1	1993	34	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5124.html				fulltext			
+Greek and Byzantine Studies	0017-3916		1995	36	1	1995	36	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5124.html				fulltext			
+Green Chemistry	1463-9262	1463-9270	1999	1	1	2004	6	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/GC.html				fulltext			
+Health Education Research	0268-1153	1465-3648	1986	1	1	1995	10	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/her.html				fulltext			
+Health Policy and Planning	0268-1080	1460-2237	1986	1	1	1995	10	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/heapol.html				fulltext			
+Health Promotion International	0957-4824	1460-2245	1986	1	1	1995	10	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/heapro.html				fulltext			
+Historian	0265-1076		1938	1	1	1982	45	1	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3109.html				fulltext			
+Historian	0265-1076		1984	46	2	1995	57	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3109.html				fulltext			
+Historians Film Committee Newsletter	0360-3695		1971	1	1	1995	25	1	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/v602.html				fulltext			
+Historical Materialism	1465-4466		1997	1	1	2008	16	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/14654466.html				fulltext			
+Historical Methods Newsletter	0161-5440		1967	1	1	1995	28	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/h347.html				fulltext			
+History of Economics Society Bulletin	1042-7716	1469-9656	1979	1	1	1984	5	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/HET.html				fulltext			
+History of Economics Society Bulletin	1042-7716	1469-9656	1986	7	1	1999	21	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/HET.html				fulltext			
+History of Science	0007-0874		1962	1		1971	10		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/e363.html				fulltext			
+History of Science	0007-0874		1973	11	1	1990	28	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/e363.html				fulltext			
+History Teacher's Magazine	0037-7996			74	3		74	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3111.html				fulltext			
+History Teacher's Magazine	0037-7996		1909	1	1	1995	86	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3111.html				fulltext			
+History Workshop Journal	1363-3554	1477-4569	1976	1	1	1995	40	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/hiwork.html				fulltext			
+Holocaust and Genocide Studies	8756-6583	1476-7937	1986	1	1	1995	9	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/holgen.html				fulltext			
+Housing Studies	0267-3037	1466-1810	1986	1	1	1996	11	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/chos20.html				fulltext			
+Human Biology	0018-7143		1929	1	1	1995	67	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5243.html				fulltext			
+Human Molecular Genetics	0964-6906	1460-2083	1992	1	1	1995	4	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/hmg.html				fulltext			
+Human Reproduction	0268-1161	1460-2350	1986	1	1	1995	10	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/humrep.html				fulltext			
+Human Rights Case Digest		1571-8131	1999	10	1	2006	16	5	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/0965934X.html				fulltext			
+Human Rights Case Digest		1571-8131	2008	16	7	2008	16	7	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/0965934X.html				fulltext			
+ICE Engineering Division Papers		1753-7797	1942	1	1942	1951	9	1951	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/idivp.html				fulltext			
+ICE Proceedings		1753-7789	1952	1	1	1991	91	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/iicep.html				fulltext			
+ICE Proceedings		1753-7797	1952	1	1	1956	5	6	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/iicep.html				fulltext			
+ICE Selected Engineering Papers		1753-7827	1923	1	1	1935	1	180	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/isenp.html				fulltext			
+ICE Transactions		1753-7851	1836	1	1836	1836	1	1836	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/itrcs.html				fulltext			
+ICE Transactions		1753-7851	1838	2	1838	1842	3	1842	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/itrcs.html				fulltext			
+ICES Journal du Conseil	1054-3139	1095-9289	1903	s1	1	1916	s1	70	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/icesjms.html				fulltext			
+ICES Journal du Conseil	1054-3139	1095-9289	1918	s1	71	1918	s1	71	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/icesjms.html				fulltext			
+ICES Journal du Conseil	1054-3139	1095-9289	1920	s1	72	1939	14	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/icesjms.html				fulltext			
+ICES Journal du Conseil	1054-3139	1095-9289	1947	15	1	1995	52	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/icesjms.html				fulltext			
+IMA Journal of Applied Mathematics	0272-4960	1464-3634	1965	1	1	1995	55	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imamat.html				fulltext			
+IMA Journal of Management Mathematics		1471-6798	1986	1	1	1986	1	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imaman.html				fulltext			
+IMA Journal of Management Mathematics		1471-6798	1988	2	1	1989	2	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imaman.html				fulltext			
+IMA Journal of Management Mathematics		1471-6798	1991	3	1	1993	5	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imaman.html				fulltext			
+IMA Journal of Management Mathematics		1471-6798	1995	6	1	1995	6	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imaman.html				fulltext			
+IMA Journal of Mathematical Control and Information	0265-0754	1471-6887	1984	1	1	1995	12	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imamci.html				fulltext			
+IMA Journal of Numerical Analysis	0272-4979	1464-3642	1981	1	1	1995	15	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imanum.html				fulltext			
+Industrial and Corporate Change	0960-6491	1464-3650	1992	1	1	1995	4	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/indcor.html				fulltext			
+Industrial Law journal	0305-9332	1464-3669	1972	1	1	1995	24	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/indlaw.html				fulltext			
+Institute of the History of Medicine, Bulletin	0007-5140		1933	1		1995	69	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3069.html				fulltext			
+Integrative and Comparative Biology	1540-7063	1557-7023	1961	1	1	1995	35	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/icbiol.html				fulltext			
+Interdisciplinary Studies in Literature and Environment	1076-0962	1759-1090	1993	1	1	1994	2	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/isle.html				fulltext			
+International and Comparative Law Quarterly	0020-5893	1471-6895	1952	1	1	1995	44	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ILQ.html				fulltext			
+International and Comparative Law Quarterly	0020-5893	1471-6895	1952	1	Pt2	1995	44	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ILQ.html				fulltext			
+International Immunology	0953-8178	1460-2377	1989	1	1	1995	7	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/intimm.html				fulltext			
+International Journal for Quality in Health Care	1353-4505	1464-3677	1989	1	1	1995	7	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/intqhc.html				fulltext			
+International Journal of Cultural Property	0940-7391	1465-7317	1992	1	1	1997	6	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JCP.html				fulltext			
+International Journal of Environmental Studies	0020-7233	1029-0400	1970	1	1-4	1996	51	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/genv20.html				fulltext			
+International Journal of Epidemiology	0300-5771	1464-3685	1972	1	1	1995	24	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/intjepid.html				fulltext			
+International Journal of Law and Information Technology	0967-0769	1464-3693	1993	1	1	1995	3	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/inttec.html				fulltext			
+International Journal of Law, Policy and the Family	1360-9939	1464-3707	1987	1	1	1995	9	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/lawfam.html				fulltext			
+International Journal of Lexicography	0950-3846	1477-4577	1988	1	1	1995	8	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/lexico.html				fulltext			
+International Journal of Middle East Studies	0020-7438	1471-6380	1970	1	1	1999	31	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/MES.html				fulltext			
+International Journal of Public Opinion Research	0954-2892	1471-6909	1989	1	1	1995	7	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/intpor.html				fulltext			
+International Journal of Refugee Law	0953-8186	1464-3715	1989	1	1	1995	7	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/reflaw.html				fulltext			
+International Journal of Technology Assessment in Health Care	0266-4623	1471-6348	1985	1	1	1998	14	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/THC.html				fulltext			
+International Journal of Water Resources Development	0790-0627	1360-0648	1984	2	2-3	1984	2	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cijw20.html				fulltext			
+International Journal of Water Resources Development	0790-0627	1360-0648	1987	3	1	1996	12	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cijw20.html				fulltext			
+International Journal on Minority and Group Rights	1385-4879	1571-8115	1993	1	1	2008	15	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13854879.html				fulltext			
+International Law FORUM du droit international	1388-9036	1571-8042	1999	1	1	2005	7	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13889036.html				fulltext			
+International Mathematics Research Notices	1073-7928	1687-1197	1991	1991	1	1995	1995	13	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imrn.html				fulltext			
+International Monetary Fund Staff Papers	1020-7635		1950	1	1	1995	42	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5171.html				fulltext			
+International Negotiation		1571-8069	1996	1	2	2008	13	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/1382340X.html				fulltext			
+International Organization	0020-8183	1531-5088	1947	1	1	1996	50	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/INO.html				fulltext			
+International Planning Studies	1356-3475	1469-9265	1996	1	1	1996	1	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cips20.html				fulltext			
+International Review of Poultry Science	1877-9654		1928	1	1	1940	13	1-2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/IPS.html				fulltext			
+International Review of Social History	0020-8590		1956	1	1	1997	42	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ISH.html				fulltext			
+International Review of the Red Cross	0020-8604		1961	1	1	1998	38	325	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RCE.html				fulltext			
+Inverse Problems	0266-5611		1985	1	1	1998	14	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0266-5611.html				fulltext			
+Iran and the Caucasus	1609-8498		1997	1	1	1998	2	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/16098498.html				fulltext			
+Iran and the Caucasus	1609-8498		2001	5	1	2005	9	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/16098498.html				fulltext			
+Iran and the Caucasus	1609-8498		2007	11	1	2008	12	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/16098498.html				fulltext			
+Islamic Law and Society	0928-9380	1568-5195	1994	1	1	1994	1	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09289380.html				fulltext			
+Islamic Law and Society	0928-9380	1568-5195	2006	13	2	2008	15	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09289380.html				fulltext			
+ITNOW	1746-5702	1746-5710	1995	37	5	1995	37	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/combul.html				fulltext			
+Japan Quarterly	0021-4590		1954	1	1	1995	42	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/6125.html				fulltext			
+Japanese Journal of Clinical Oncology	0000-0000	1465-3621	1971	1	1	1995	25	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jjco.html				fulltext			
+Jewish Social Studies	0021-6704		1939	1	1	1968	30	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1106.html				fulltext			
+Jewish Social Studies	0021-6704		1970	32	1	1972	34	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1106.html				fulltext			
+Jewish Social Studies	0021-6704		1974	36	1	1988	50	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1106.html				fulltext			
+JNCI Cancer Spectrum	0027-8874	1460-2105	1988	80	1	1995	87	24	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jnci.html				fulltext			
+Journal and Proceedings of the Institute of Chemistry of Great Britain and Ireland	0368-3958		1920	44		1943	67		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JG.html				fulltext			
+Journal and Proceedings of the Royal Institute of Chemistry	0368-3958		1949	73		1949	73		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JP.html				fulltext			
+Journal and Proceedings of the Royal Institute of Chemistry of Great Britain and Ireland	0368-3958		1944	68		1948	72		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/RG.html				fulltext			
+Journal for the Study of Judaism	0047-2212	1570-0631	1970	1	1	2008	39	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00472212.html				fulltext			
+Journal of Adhesion Science and Technology	0169-4243	1568-5616	1987	1	1	2009	23	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01694243.html				fulltext			
+Journal of African Economies	0963-8024	1464-3723	1992	1	1	1995	4	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jafeco.html				fulltext			
+Journal of African Law	0021-8553	1464-3731	1957	1	1	2000	44	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JAL.html				fulltext			
+Journal of American Studies	0021-8758	1469-5154	1967	1	1	1996	30	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AMS.html				fulltext			
+Journal of Analytical Atomic Spectrometry	0267-9477	1364-5544	1986	1	1	2004	19	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JA.html				fulltext			
+Journal of Anglican Studies	1740-3553	1745-5278	2003	1	1	2007	5	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AST.html				fulltext			
+Journal of Antimicrobial Chemotherapy	0305-7453	1460-2091	1975	1	1	1995	36	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jac.html				fulltext			
+Journal of Arabic Literature	0085-2376		1970	1	1	2008	39	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00852376.html				fulltext			
+Journal of Biochemistry		0000-0000	1922	1	1	1942	35	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jbiochem.html				fulltext			
+Journal of Biochemistry		0000-0000	1944	36	1	1944	36	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jbiochem.html				fulltext			
+Journal of Biochemistry		0000-0000	1950	37	1	1995	118	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jbiochem.html				fulltext			
+Journal of Biomaterials Science, Polymer Edition	0920-5063	1568-5624	1989	1	1	1989	1	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09205063.html				fulltext			
+Journal of Biomaterials Science, Polymer Edition	0920-5063	1568-5624	1991	2	1	2008	19	11	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09205063.html				fulltext			
+Journal of Biosocial Science	0021-9320	1469-7599	1969	1	1	1996	28	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JBS.html				fulltext			
+Journal of Child Language	0305-0009	1469-7602	1974	1	1	1996	23	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JCL.html				fulltext			
+Journal of Church and State		2040-4867	1959	1	1	1995	37	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jcs.html				fulltext			
+Journal of Consumer Affairs	0022-0078		1967	1	1	2000	34	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/0571.html				fulltext			
+Journal of Dairy Research	0022-0299	1469-7629	1929	1	1	1996	63	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/DAR.html				fulltext			
+Journal of Design History	0952-4649	1741-7279	1988	1	1	1995	8	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/design.html				fulltext			
+Journal of Early Modern History	1385-3783	1570-0658	1997	1	1	2008	12	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13853783.html				fulltext			
+Journal of Educational Research	0022-0671		1920	1	1	1995	88	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1123.html				fulltext			
+Journal of Electromagnetic Waves and Applications	0920-5071	1569-3937	1988	2	3	2008	22	8	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09205071.html				fulltext			
+Journal of Electron Microscopy	0022-0744	1477-9986	1953	1	1	1995	44	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jmicro.html				fulltext			
+Journal of Empirical Theology	0922-2936	1570-9256	1889	2	1	1889	2	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09222936.html				fulltext			
+Journal of Empirical Theology	0922-2936	1570-9256	1988	1	1	1988	1	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09222936.html				fulltext			
+Journal of Empirical Theology	0922-2936	1570-9256	1990	3	1	2008	21	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09222936.html				fulltext			
+Journal of Environmental Law	0952-8873		1989	1	1	1995	7	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/envlaw.html				fulltext			
+Journal of Environmental Monitoring	1464-0325	1464-0333	1999	1	1	2004	6	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/EM.html				fulltext			
+Journal of Environmental Planning and Management	0964-0568	1360-0559	1992	35	1	1996	39	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjep20.html				fulltext			
+Journal of Environmental Planning and Management (Series 1)	0032-0714		1948	1	1	1962	5	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjep18.html				fulltext			
+Journal of Environmental Planning and Management (Series 1)	0032-0714		1964	6	1	1964	6	2	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjep18.html				fulltext			
+Journal of Experimental Botany	0022-0957	1460-2431	1950	1	1	1995	46	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jexbot.html				fulltext			
+Journal of Financial and Quantitative Analysis	0022-1090	1756-6916	1966	1	1	2003	38	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JFQ.html				fulltext			
+Journal of Fluid Mechanics	0022-1120	1469-7645	1956			1996			http://www.jiscjournalarchives.ac.uk/browse/cup/titles/FLM.html				fulltext			
+Journal of French Language Studies	0959-2695	1474-0079	1991	1	1	1999	9	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JFL.html				fulltext			
+Journal of Functional Programming	0956-7968	1469-7653	1966	6	2	1966	6	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JFP.html				fulltext			
+Journal of Functional Programming	0956-7968	1469-7653	1991	1	1	1996	6	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JFP.html				fulltext			
+Journal of General Psychology	0022-1309		1928	1		1995	122	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1128.html				fulltext			
+Journal of Geography in Higher Education	0309-8265	1466-1845	1977	1	1	1996	20	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjgh20.html				fulltext			
+Journal of Helminthology		1475-2697	1923	1	1	1943	21	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JHL.html				fulltext			
+Journal of Helminthology		1475-2697	1945	21	2-3	1998	72	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JHL.html				fulltext			
+Journal of Heredity	0022-1503	1465-7333	1910	1	1	1995	86	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jhered.html				fulltext			
+Journal of High Energy Physics	1126-6708		1997	1997	07	1998	1999	01	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1126-6708.html				fulltext			
+Journal of Islamic Studies	0955-2340	1471-6917	1990	1	1	1995	6	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/islamj.html				fulltext			
+Journal of Jewish Thought and Philosophy			2002	11	1	2004	13	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/1053699X.html				fulltext			
+Journal of Jewish Thought and Philosophy			2006	14	1	2008	16	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/1053699X.html				fulltext			
+Journal of Latin American Studies			1969	1	1	1996	28	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LAS.html				fulltext			
+Journal of Law, Economics, and Organization	8756-6222	1465-7341	1985	1	1	1995	11	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jleo.html				fulltext			
+Journal of Linguistics	0022-2267	1469-7742	1965	1	1	1996	32	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LIN.html				fulltext			
+Journal of Logic and Computation			1990	1	1	1995	5	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/logcom.html				fulltext			
+Journal of Materials Chemistry	0959-9428	1364-5501	1991	1	1	2004	14	24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JM.html				fulltext			
+Journal of Micromechanics and Microengineering	0960-1317		1991	1	1	1998	8	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0960-1317.html				fulltext			
+Journal of Navigation	0373-4633	1469-7785	1948	1	1	1997	50	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NAV.html				fulltext			
+Journal of Nuclear Energy. Part C, Plasma Physics, Accelerators, Thermonuclear Research	0368-3281		1959	1	1	1966	8	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0368-3281.html				fulltext			
+Journal of Optics			1977	8	1	1998	29	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0150-536X.html				fulltext			
+Journal of Pediatric Psychology	0146-8693	0146-8693	1976	1	1	1995	20	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jpepsy.html				fulltext			
+Journal of Petrology	0022-3530	1460-2415	1960	1	1	1995	36	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/petrology.html				fulltext			
+Journal of Phenomenological Psychology	0047-2662	1569-1624	1970	1	1	2008	39	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00472662.html				fulltext			
+Journal of Physics A: General Physics	0022-3689		1968	1	1	1972	5	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0022-3689.html				fulltext			
+Journal of Physics A: Mathematical and General	0305-4470		1975	8	1	1998	31	50	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0305-4470.html				fulltext			
+Journal of Physics A: Mathematical, Nuclear and General	0301-0015		1973	6	1	1974	7	18	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0301-0015.html				fulltext			
+Journal of Physics B: Atomic and Molecular Physics	0022-3700		1968	1	1	1987	20	24	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0022-3700.html				fulltext			
+Journal of Physics B: Atomic, Molecular and Optical Physics	0953-4075		1988	21	1	1998	31	24	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0953-4075.html				fulltext			
+Journal of Physics C: Solid State Physics	0022-3719		1968	1	1	1988	21	36	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0022-3719.html				fulltext			
+Journal of Physics D: Applied Physics	0022-3727		1968	1	1	1998	31	24	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0022-3727.html				fulltext			
+Journal of Physics E: Scientific Instruments	0022-3735		1968	1	1	1989	22	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0022-3735.html				fulltext			
+Journal of Physics F: Metal Physics	0305-4608		1971	1	1	1988	18	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0305-4608.html				fulltext			
+Journal of Physics G: Nuclear and Particle Physics	0954-3899		1989	15	1	1998	24	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0954-3899.html				fulltext			
+Journal of Physics G: Nuclear Physics	0305-4616		1975	1	1	1988	14	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0305-4616.html				fulltext			
+Journal of Physics: Condensed Matter	0953-8984		1989	1	1	1998	10	50	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0953-8984.html				fulltext			
+Journal of Plankton Research	0142-7873	1464-3774	1979	1	1	1995	17	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/plankt.html				fulltext			
+Journal of Plasma Physics	0022-3778	1469-7807	1967	1	1	1996	56	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PLA.html				fulltext			
+Journal of Popular Culture	0022-3840			12	2		12	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b181.html				fulltext			
+Journal of Popular Culture	0022-3840		1967	1	1	1990	23	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b181.html				fulltext			
+Journal of Popular Culture	0022-3840		1992	25	4	1996	29	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b181.html				fulltext			
+Journal of Property Research	0959-9916	1466-4453	1991	8	1	1996	13	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rjpr20.html				fulltext			
+Journal of Psychology	0022-3980		1935	1		1995	129	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1140.html				fulltext			
+Journal of Public Administration Research and Theory	1053-1858	1477-9803	1991	1	1	1995	5	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jpart.html				fulltext			
+Journal of Public Policy		1469-7815	1981	1	1	1997	17	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PUP.html				fulltext			
+Journal of Radiological Protection	0952-4746		1988	8	1	1998	18	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0952-4746.html				fulltext			
+Journal of Refugee Studies	0951-6328	1471-6925	1988	1	1	1995	8	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/refuge.html				fulltext			
+Journal of Religion in Africa	0022-4200	1570-0666	1967	1	1	1976	8	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00224200.html				fulltext			
+Journal of Religion in Africa	0022-4200	1570-0666	1978	9	1	1983	14	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00224200.html				fulltext			
+Journal of Religion in Africa	0022-4200	1570-0666	1985	15	1	2008	38	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00224200.html				fulltext			
+Journal of Religion in Africa/Religion en Afrique	0022-4200		1967	1	1	1976	8	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b184.html				fulltext			
+Journal of Religion in Africa/Religion en Afrique	0022-4200		1978	9	1	1983	14	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b184.html				fulltext			
+Journal of Religion in Africa/Religion en Afrique	0022-4200		1985	15	1	1993	23		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b184.html				fulltext			
+Journal of Religion in Africa/Religion en Afrique	0022-4200		1995	25		1995	25		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b184.html				fulltext			
+Journal of Scientific Instruments	0950-7671		1923	1		1967	44	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0950-7671.html				fulltext			
+Journal of Semantics	0167-5133	1477-4593	1982	1	1	1986	5	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semant.html				fulltext			
+Journal of Semantics	0167-5133	1477-4593	1988	6	1	1988	6	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semant.html				fulltext			
+Journal of Semantics	0167-5133	1477-4593	1990	7	1	1995	12	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semant.html				fulltext			
+Journal of Semitic Studies	0022-4480	1477-8556	1956	1	1	1965	10	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semitj.html				fulltext			
+Journal of Semitic Studies	0022-4480	1477-8556	1967	12	1	1970	15	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semitj.html				fulltext			
+Journal of Semitic Studies	0022-4480	1477-8556	1972	17	1	1972	17	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semitj.html				fulltext			
+Journal of Semitic Studies	0022-4480	1477-8556	1977	22	1	1982	27	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/semitj.html				fulltext			
+Journal of Social Policy	0047-2794	1469-7823	1972	1	1	1996	25	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JSP.html				fulltext			
+Journal of Social Psychology; Political, Racial and Differential Psychology	0022-4545		1930	1	1	1995	135	6	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1143.html				fulltext			
+Journal of Southeast Asian History	0217-7811		1960	1	1	1969	10	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SEH.html				fulltext			
+Journal of the American Academy of Religion	0002-7189	1477-4585	1933	1	1	1933	1	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jaarel.html				fulltext			
+Journal of the American Academy of Religion	0002-7189	1477-4585	1935	3	1	1936	4	II	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jaarel.html				fulltext			
+Journal of the American Academy of Religion	0002-7189	1477-4585	1952	20	1	1952	20	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jaarel.html				fulltext			
+Journal of the American Academy of Religion	0002-7189	1477-4585	1979	48	3	1979	48	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jaarel.html				fulltext			
+Journal of the American Academy of Religion	0002-7189	1477-4585	1984	52	2	1984	52	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jaarel.html				fulltext			
+Journal of the Australian Mathematical Society	1446-7887	1446-8107	1959	1	1	2007	83	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JAZ.html				fulltext			
+Journal of the Chemical Society	0368-1769		1862	15		1877	32		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JS.html				fulltext			
+Journal of the Chemical Society (Resumed)	0368-1769		1926	129		1965			http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JR.html				fulltext			
+Journal of the Chemical Society A: Inorganic, Physical, Theoretical	0022-4944		1966			1971			http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/J1.html				fulltext			
+Journal of the Chemical Society B: Physical Organic	0045-6470		1966			1971			http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/J2.html				fulltext			
+Journal of the Chemical Society C: Organic	0022-4952		1966			1971			http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/J3.html				fulltext			
+Journal of the Chemical Society D: Chemical Communications	0577-6171		1969		1	1971		24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/C2.html				fulltext			
+Journal of the Chemical Society, Abstracts	0590-9791		1878	34		1925	128		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CA.html				fulltext			
+Journal of the Chemical Society, Chemical Communications	0022-4936		1972		1	1995		24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/C3.html				fulltext			
+Journal of the Chemical Society, Dalton Transactions	0300-9246	1364-5447	1972		1	2004	4	24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/DT.html				fulltext			
+Journal of the Chemical Society, Faraday Transactions	0956-5000	1364-5455	1990	86	1	1998	94	24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/FT.html				fulltext			
+Journal of the Chemical Society, Faraday Transactions 1: Physical Chemistry in Condensed Phases	0300-9599		1972	68		1989	85	7	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/F1.html				fulltext			
+Journal of the Chemical Society, Faraday Transactions 2: Molecular and Chemical Physics	0300-9238		1972	68		1989	85	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/F2.html				fulltext			
+Journal of the Chemical Society, Perkin Transactions 1: Organic and Bio-organic Chemistry		1364-5463	1972			2002	2	24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/P1.html				fulltext			
+Journal of the Chemical Society, Perkin Transactions 2: Physical Organic Chemistry	1470-1820	1364-5471	1972			2002	2	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/P2.html				fulltext			
+Journal of the Chemical Society, Transactions	0368-1645		1878	33		1925	127		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CT.html				fulltext			
+Journal of the Economic and Social History of the Orient	0022-4995	1568-5209	1957	1	1	1957	1	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00224995.html				fulltext			
+Journal of the Economic and Social History of the Orient	0022-4995	1568-5209	1959	2	1	1976	19	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00224995.html				fulltext			
+Journal of the Economic and Social History of the Orient	0022-4995	1568-5209	1978	21	1	2008	51	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00224995.html				fulltext			
+Journal of the Faculty of Community Medicine	1741-3842	1741-3850	1979	1	1	1995	17	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jphm.html				fulltext			
+Journal of the History of Collections	0954-6650	1477-8564	1989	1	1	1995	7	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/hiscol.html				fulltext			
+Journal of the History of International Law		1571-8050	1999	1	1	2008	10	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/1388199X.html				fulltext			
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	1946	1	1	1946	1	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jalsci.html				fulltext			
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	1983	38	1	1995	50	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jalsci.html				fulltext			
+Journal of the History of Philosophy	0022-5053		1963	1	1	1995	33	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b151.html				fulltext			
+Journal of the ICE			1935	1	1	1948	30	8	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/ijoti.html				fulltext			
+Journal of the ICE			1951	36	5	1951	36	10	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/ijoti.html				fulltext			
+Journal of the International Neuropsychological Society	1355-6177	1469-7661	1995	1	1	1996	2	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/INS.html				fulltext			
+Journal of the International Phonetic Association	0025-1003	1475-3502	1971	1	1	1985	15	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/IPA.html				fulltext			
+Journal of the International Phonetic Association	0025-1003	1475-3502	1987	17	1	2000	30	1-2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/IPA.html				fulltext			
+Journal of the Marine Biological Association of the United Kingdom	0025-3154	1469-7769	1887	1	1	1900	6	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/MBI.html				fulltext			
+Journal of the Marine Biological Association of the United Kingdom	0025-3154	1469-7769	1902	6	3	1904	7	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/MBI.html				fulltext			
+Journal of the Marine Biological Association of the United Kingdom	0025-3154	1469-7769	1906	7	3	1998	78	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/MBI.html				fulltext			
+Journal of the Plainsong and Mediaeval Music Society	0143-4918		1986	9	1	1986	9	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JPM.html				fulltext			
+Journal of the Royal Asiatic Society of Great Britain & Ireland	1356-1863	1474-0591	1834	1	1	1838	5	10	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JRA.html				fulltext			
+Journal of the Royal Asiatic Society of Great Britain & Ireland	1356-1863	1474-0591	1841	6	11	1841	6	12	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JRA.html				fulltext			
+Journal of the Royal Asiatic Society of Great Britain & Ireland	1356-1863	1474-0591	1843	7	13	1843	7	14	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JRA.html				fulltext			
+Journal of the Royal Asiatic Society of Great Britain & Ireland	1356-1863	1474-0591	1846	8	15	1846	8	15	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JRA.html				fulltext			
+Journal of the Royal Asiatic Society of Great Britain & Ireland	1356-1863	1474-0591	1864	1	1	1871	5	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JRA.html				fulltext			
+Journal of the Royal Asiatic Society of Great Britain & Ireland	1356-1863	1474-0591	1873	6	1	2000	10	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JRA.html				fulltext			
+Journal of the Royal Institute of Chemistry	0368-3958		1950	74		1964	88	November	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/JI.html				fulltext			
+Journal of the Royal Musical Association	0269-0403	1471-6933	1874	1	1	1911	38	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/roymus.html				fulltext			
+Journal of the Royal Musical Association	0269-0403	1471-6933	1913	40	1	1984	111	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/roymus.html				fulltext			
+Journal of the Royal Musical Association	0269-0403	1471-6933	1987	112	1	1995	120	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/roymus.html				fulltext			
+Journal of the Society for Radiological Protection	0260-2814		1981	1	1	1987	7	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0260-2814.html				fulltext			
+Journal of Tropical Ecology	0266-4674	1469-7831	1985	1	1	1997	13	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TRO.html				fulltext			
+Journal of Tropical Pediatrics	0142-6338	1465-3664	1955	1	1	1995	41	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/tropej.html				fulltext			
+Journal of Urban Design	1357-4809	1469-9664	1996	1	1	1996	1	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjud20.html				fulltext			
+Journal of Urban Technology	1063-0732	1466-1853	1992	1	1	1996	3	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjut20.html				fulltext			
+Journal of Wine Research	0957-1264	1469-9672	1990	1	1	1996	7	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjwr20.html				fulltext			
+Jubilee of the Chemical Society			1891		Jubilee	1891		Jubilee	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/M1.html				fulltext			
+Lab on a Chip	1473-0197	1473-0189	2001	1	1	2004	4	6	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/LC.html				fulltext			
+Land Development Studies	0264-0821		1984	1	1	1990	7	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rjpr19.html				fulltext			
+Landscape Research	0142-6397	1469-9710	1968	1	1	1970	1	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/clar20.html				fulltext			
+Landscape Research	0142-6397	1469-9710	1972	1	4	1996	21	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/clar20.html				fulltext			
+Language and Speech	0023-8309		1958	1	1	2000	43	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/4127.html				fulltext			
+Language in Society	0047-4045	1469-8013	1972	1	1	1997	26	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LSY.html				fulltext			
+Language Teaching	0261-4448	1475-3049	1968	1	1	2001	34	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LTA.html				fulltext			
+Language Variation and Change	0954-3945	1469-8021	1989	1	1	1998	10	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LVC.html				fulltext			
+Laser and Particle Beams	0263-0346		1983	1	1	1998	16	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LPB.html				fulltext			
+Legal Information Management	1472-6696	1741-2021	2001	1	1	2003	3	3-4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LIM.html				fulltext			
+Legal Theory	1352-3252	1469-8048	1995	1	1	1998	4	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LEG.html				fulltext			
+Leiden Journal of International Law	0922-1565	1478-9698	1988	1	1	1995	8	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LJL.html				fulltext			
+Life of Telford			1838	1	1838	1838	1	1838	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/ilotl.html				fulltext			
+Literary & Linguistic Computing	0268-1145	1477-4615	1986	1	1	1995	10	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/litlin.html				fulltext			
+Literary Review	0024-4589		1957	1	1	1996	39	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5170.html				fulltext			
+Literature & Theology	0269-1205	1477-4623	1987	1	1	1995	9	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/litthe.html				fulltext			
+Local Economy	0269-0942	1470-9325	1986	1	1	1996	11	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rlce20.html				fulltext			
+Local Environment	1354-9839	1469-6711	1996	1	1	1996	1	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cloe20.html				fulltext			
+Logic Journal of IGPL	1367-0751	1368-9894	1993	1	1	1995	3	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/igpl.html				fulltext			
+Lusotopie	1257-0273	1768-3084	2005	12	1	2008	15	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/12570273.html				fulltext			
+Mathematical Medicine and Biology	1477-8599	1477-8602	1984	1	1	1995	12	3-4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/imammb.html				fulltext			
+Mathematical Proceedings of the Cambridge Philosophical Society	0305-0041	1469-8064	1924	22	1	1996	120	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PSP.html				fulltext			
+Mathematical Structures in Computer Science	0960-1295	1469-8072	1991	1	1	1996	6	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/MSC.html				fulltext			
+Measurement Science and Technology	0957-0233		1990	1	1	1998	9	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0957-0233.html				fulltext			
+Medical Law Review	0967-0742	1464-3790	1993	1	1	1995	3	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/medlaw.html				fulltext			
+Medieval Encounters	1380-7854	1570-0674	1995	1	1	2008	14	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13807854.html				fulltext			
+Medium aevum	0025-8385		1932	1		1947	16		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/0020.html				fulltext			
+Medium aevum	0025-8385		1949	18		1990	59		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/0020.html				fulltext			
+Memoirs and Proceedings of the Chemical Society			1841	1		1841	1		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/MP.html				fulltext			
+Memoirs and Proceedings of the Chemical Society			1843	2		1843	2		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/MP.html				fulltext			
+Memoirs and Proceedings of the Chemical Society			1845	3		1845	3		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/MP.html				fulltext			
+Method && Theory in the Study of Religion	0943-3058	1570-0682	1989	1	1	2001	13	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09433058.html				fulltext			
+Method && Theory in the Study of Religion	0943-3058	1570-0682	2004	16	1	2008	20	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09433058.html				fulltext			
+Metrologia	0026-1394		1965	1	1	1998	35	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0026-1394.html				fulltext			
+Middle East Journal	0026-3141		1947	1		1995	49	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1158.html				fulltext			
+Mind	0026-4423	1460-2113	1876	os-1	1	1888	os-XIII	52	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mind.html				fulltext			
+Mind	0026-4423	1460-2113	1890	os-XV	57	1892	1	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mind.html				fulltext			
+Mind	0026-4423	1460-2113	1896	ns-5	18	1896	ns-5	18	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mind.html				fulltext			
+Mind	0026-4423	1460-2113	1956	65	1	1956	65	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mind.html				fulltext			
+Mind	0026-4423	1460-2113	1992	101	401	1995	104	416	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mind.html				fulltext			
+Minutes of the Proceedings (Institution of Civil Engineers)		1753-7843	1837	1	1837	1920	210	1920	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/imotp.html				fulltext			
+Minutes of the Proceedings (Institution of Civil Engineers)		1753-7843	1922	213	1922	1935	240	1935	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/imotp.html				fulltext			
+Mission Studies	0168-9789	1573-3831	1984	1	1	1997	14	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01689789.html				fulltext			
+Mission Studies	0168-9789	1573-3831	2000	17	1	2008	25	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01689789.html				fulltext			
+Mnemosyne	0026-7074		1948	1	1	2008	61	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00267074.html				fulltext			
+Modelling and Simulation in Materials Science and Engineering	0965-0393		1992	1	1	1998	6	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0965-0393.html				fulltext			
+Modern Asian Studies		1469-8099	1967	1	1	1997	31	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ASS.html				fulltext			
+Modern Fiction Studies	0026-7724		1955	1	1	1995	41	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5040.html				fulltext			
+Modern Judaism	0276-1114	1086-3273	1981	1	1	1995	15	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/modjud.html				fulltext			
+Molecular biology and evolution	0737-4038		1994	11	5	1994	11	5	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/molbiolevol.html				fulltext			
+Molecular Human Reproduction	1360-9947	1460-2407	1995	1	1	1995	1	8	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/molehr.html				fulltext			
+Music and Letters	0027-4224	1477-4631	1943	24	1	1943	24	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musicj.html				fulltext			
+Music and Letters	0027-4224	1477-4631	1956	37	1	1956	37	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musicj.html				fulltext			
+Music and Letters	0027-4224	1477-4631	1960	41	1	1964	45	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musicj.html				fulltext			
+Music and Letters	0027-4224	1477-4631	1966	47	1	1966	47	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musicj.html				fulltext			
+Music and Letters	0027-4224	1477-4631	1975	56	1	1975	56	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musicj.html				fulltext			
+Music and Letters	0027-4224	1477-4631	1977	58	1	1995	76	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musicj.html				fulltext			
+Mutagenesis	0267-8357	1464-3804	1986	1	1	1995	10	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mutage.html				fulltext			
+NAN Nü	1387-6805	1568-5268	1999	1	1	2003	5	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13876805.html				fulltext			
+NAN Nü	1387-6805	1568-5268	2007	9	2	2007	9	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13876805.html				fulltext			
+Nanotechnology	0957-4484		1990	1	1	1998	9	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0957-4484.html				fulltext			
+Natural Language Engineering	1351-3249	1469-8110	1995	1	1	1995	1	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NLE.html				fulltext			
+Natural Product Reports	0265-0568	1460-4752	1984	1	1	2004	21	6	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/NP.html				fulltext			
+Negro History Bulletin	0028-2529		1937	1	1	1987	50	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3188.html				fulltext			
+Nematology	1388-5545	1568-5411	1999	1	1	2008	10	6	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13885545.html				fulltext			
+Nephrology Dialysis Transplantation	0931-0509	1460-2385	1986	1	1	1995	10	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ndt.html				fulltext			
+Netherlands International Law Review		1741-6191	1953	1	1	1953	1	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NLR.html				fulltext			
+Netherlands International Law Review		1741-6191	1955	2	1	2002	49	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NLR.html				fulltext			
+Netherlands Journal of Zoology	0028-2960		1967	18	1	2003	52	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00282960.html				fulltext			
+Netherlands Yearbook of International Law	0167-6768	1574-0951	1970	1		2003	34		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NYL.html				fulltext			
+Network: Computation in Neural Systems			1990	1	1	1998	9	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0954-898X.html				fulltext			
+New Journal of Chemistry	1144-0546	1369-9261	1998	22	1	2004	28	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/NJ.html				fulltext			
+New Journal of Physics	1367-2630		1998	1	1	1998	1	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1367-2630.html				fulltext			
+New Testament Studies	0028-6885	1469-8145	1954	1	1	1998	44	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NTS.html				fulltext			
+New Theatre Quarterly		1474-0613	1985	1	1	2001	17	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NTQ.html				fulltext			
+New York Times Current History of the European War	1932-7064		1914	1	1	1921	15	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/8730.html				fulltext			
+New York Times Current History of the European War	1932-7064		1923	17	4	1941	53	1	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/8730.html				fulltext			
+Newsletter, European Labor and Working Class History	0147-5479	1471-6445	1972	1		1998	54		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ILW.html				fulltext			
+Non-State Actors and International Law	1567-7125	1571-8077	2001	1	1	2005	5	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15677125.html				fulltext			
+Nonlinearity	0951-7715		1988	1	1	1998	11	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0951-7715.html				fulltext			
+Nordic Journal of International Law	0902-7351	1571-8107	1947	18	1	1947	18	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09027351.html				fulltext			
+Nordic Journal of International Law	0902-7351	1571-8107	1949	19	1	1959	29	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09027351.html				fulltext			
+Nordic Journal of International Law	0902-7351	1571-8107	1986	55	1	1991	60	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09027351.html				fulltext			
+Nordic Journal of International Law	0902-7351	1571-8107	1994	63	1	2008	77	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09027351.html				fulltext			
+Nordic Journal of Linguistics	0332-5865	1502-4717	1978	1	1	2002	25	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NJL.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1926	1	1	1928	2	8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1930	3	1	1930	3	5-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1932	4	1-3	1933	4	8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1935	5	1	1936	6	8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1938	7	1	1938	7	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1940	8	1-2	1946	11	7-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1948	12	1	1948	12	7-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1951	13	1-2	1951	13	3-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1954	14	1-4	1954	14	7-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1956	15	1-2	1957	16	1-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1959	17	1-4	1959	17	5-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1961	18	1-2	1961	18	7-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1963	19	1-2	1963	19	7-8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1965	20	1-2	1965	20	8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	0029-1951	1502-5292	1967	21	1	1996	50	3-4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/sgeo20.html				fulltext			
+Notes and Queries	0029-3970	1471-6941							http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1849	s1-I	1	1926	151	26	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1929	156	1	1930	158	26	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1934	167	26	1934	167	26	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1937	172	1	1952	197	26	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1954	199	mar	1954	199	feb	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1956	3	1	1956	3	12	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1959	6	6	1976	23	12	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1979	26	1	1985	32	4	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Notes and Queries	0029-3970	1471-6941	1987	ns-34	2	1995	42	3	http://www.jiscjournalarchives.ac.uk/browse/notes/index.html				fulltext			
+Nouvelle Revue d'Optique	0335-7368		1973	4	1	1976	7	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0335-7368.html				fulltext			
+Nouvelle Revue d'Optique Appliquée	0029-4780		1970	1	1	1972	3	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0029-4780.html				fulltext			
+Novum Testamentum	0048-1009	1568-5365	1956	1	2	1960	4	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00481009.html				fulltext			
+Novum Testamentum	0048-1009	1568-5365	1962	5	1	2008	50	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00481009.html				fulltext			
+Nuclear Fusion	0029-5515		1992	32	1	1998	38	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0029-5515.html				fulltext			
+Nucleic Acids Research	0305-1048	1362-4962	1974	1	1	1995	23	24	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/nar.html				fulltext			
+Numen	0029-5973	1568-5276	1954	1	1	2008	55	5	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00295973.html				fulltext			
+Nutrition Research Reviews	0954-4224	1475-2700	1988	1	1	2004	17	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NRR.html				fulltext			
+Nutrition Research Reviews	0954-4224	1475-2700	2010	23	1	2010	23	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/NRR.html				fulltext			
+Occupational Medicine	0962-7480	1471-8405	1948	os-1	1	1949	os-1	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/occumed.html				fulltext			
+Occupational Medicine	0962-7480	1471-8405	1951	1	1	1995	45	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/occumed.html				fulltext			
+Oceania	0029-8077		1930	1		1996	66	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/4147.html				fulltext			
+Organic & Biomolecular Chemistry	1477-0520	1477-0539	2003	1	1	2004	2	24	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/OB.html				fulltext			
+Oryx	0030-6053	1365-3008	1950	1	1	2001	35	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ORX.html				fulltext			
+Oxford Art Journal	0142-6540	1741-7287	1978	1	1	1995	18	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxartj.html				fulltext			
+Oxford Economic Papers	0030-7653	1464-3812	1938	os-1	1	1942	os-6	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxepap.html				fulltext			
+Oxford Economic Papers	0030-7653	1464-3812	1945	os-7	1	1945	os-7	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxepap.html				fulltext			
+Oxford Economic Papers	0030-7653	1464-3812	1947	os-8	1	1947	os-8	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxepap.html				fulltext			
+Oxford Economic Papers	0030-7653	1464-3812	1949	1	1	1954	6	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxepap.html				fulltext			
+Oxford Economic Papers	0030-7653	1464-3812	1956	8	1	1995	47	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxepap.html				fulltext			
+Oxford Journal of Legal Studies	0143-6503	1464-3820	1981	1	1	1995	15	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxjlsj.html				fulltext			
+Oxford Review of Economic Policy		1460-2121	1985	1	1	1995	11	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/oxrep.html				fulltext			
+Parasitology	0031-1820	1469-8161	1908	1	1	1996	113	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PAR.html				fulltext			
+Parliamentary Affairs	0031-2290	1460-2482	1965	19	1	1974	28	1974sep	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/parlij.html				fulltext			
+Parliamentary Affairs	0031-2290	1460-2482	1978	32	1	1979	33	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/parlij.html				fulltext			
+Parliamentary Affairs	0031-2290	1460-2482	1983	36	1	1995	48	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/parlij.html				fulltext			
+Past & Present	0031-2746		1952	1	1	1995	149	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/past.html				fulltext			
+PCCP (Physical Chemistry Chemical Physics)	1463-9076	1463-9084	1999	1	1	2004	6	24-0	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/CP.html				fulltext			
+Pedagogical Seminary	0022-1325		1891	1	1	1892	2	1	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3284.html				fulltext			
+Pedagogical Seminary	0022-1325		1894	3	1	1898	6		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3284.html				fulltext			
+Pedagogical Seminary	0022-1325		1900	7		1995	156	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3284.html				fulltext			
+Perspectives on Global Development and Technology	1569-1500	1569-1497	2000	16	1	2008	7	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15691500.html				fulltext			
+Philological Quarterly	0031-7977		1922	1		1990	69	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1180.html				fulltext			
+Philosophia Mathematica	0031-8019	1744-6406	1993	1	1	1995	3	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/philmat.html				fulltext			
+Philosophy	0031-8191		1926	1	1	1997	72	282	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PHI.html				fulltext			
+Philosophy Today	0031-8256		1957	1	1	1995	39	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/5116.html				fulltext			
+Phonology	0952-6757	1469-8188	1988	5	1	1989	6	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PHO.html				fulltext			
+Phonology	0952-6757	1469-8188	1991	8	1	1996	13	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PHO.html				fulltext			
+Photochemical & Photobiological Sciences		1474-9092	2002	1	1	2004	3	11-12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/PP.html				fulltext			
+Phronesis: A journal for Ancient Philosophy	0031-8868	1568-5284	1955	1	1	1955	1	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00318868.html				fulltext			
+Phronesis: A journal for Ancient Philosophy	0031-8868	1568-5284	1957	2	1	2008	53	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00318868.html				fulltext			
+PhysChemComm		1460-2733	1998	1	1	2003	6	16	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/QU.html				fulltext			
+Physics Education	0031-9120		1966	1	1	1998	33	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0031-9120.html				fulltext			
+Physics in Medicine and Biology	0031-9155		1956	1	1	1998	43	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0031-9155.html				fulltext			
+Physics in Technology	0305-4624		1973	4	1	1988	19	5-6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0305-4624.html				fulltext			
+Physiological Measurement	0967-3334		1993	14	1	1998	19	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0967-3334.html				fulltext			
+Plainsong and Medieval Music	0961-1371	1474-0087	1992	1	1	1999	8	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PMM.html				fulltext			
+Planning Outlook	0032-0714		1966	1	1-2	1979	22	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjep19.html				fulltext			
+Planning Outlook	0032-0714		1981	23	1	1991	34	2	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cjep19.html				fulltext			
+Planning Perspectives	0266-5433	1466-4518	1986	1	1	1996	11	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rppe20.html				fulltext			
+Planning Practice and Research	0269-7459	1360-0583	1986	1	1	1996	11	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cppr20.html				fulltext			
+Plant and Cell Physiology	0032-0781	1471-9053	1959	1	1	1995	36	8	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/pcellphys.html				fulltext			
+Plasma Physics	0032-1028		1967	9	1	1983	25	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0032-1028.html				fulltext			
+Plasma Physics and Controlled Fusion	0741-3335		1984	26	1B	1998	40	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0741-3335.html				fulltext			
+Plasma Sources Science and Technology	0963-0252		1992	1	1	1998	7	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0963-0252.html				fulltext			
+Pneuma	0272-0965	1570-0747	1979	1	1	2008	30	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/02720965.html				fulltext			
+Polar Record	0032-2474	1475-3057	1931	1	1	2002	38	207	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/POL.html				fulltext			
+Political Analysis	1047-1987	1476-4989	1989	1	1	1993	5	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/polana.html				fulltext			
+Popular Music	0261-1430	1474-0095	1987	6	1	1999	18	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PMU.html				fulltext			
+Probability in the Engineering and Informational Sciences	0269-9648	1469-8951	1987	1	1	1998	12	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PES.html				fulltext			
+Proceedings of the Analytical Division of the Chemical Society	0306-1396		1975	12	1	1979	16	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AD.html				fulltext			
+Proceedings of the Chemical Society	0369-8718		1957		September	1964		December	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/PS.html				fulltext			
+Proceedings of the Chemical Society, London	0369-8718		1885	1	1	1914	30	436	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/PL.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1883	1		1898	17		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1900	18		1907	26		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1909	27		1925	44		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1927	1	1	1942	7	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1945	7	2	1950	8	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1953	9	1	1954	10	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839	1956	9	3	1998	41	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PEM.html				fulltext			
+Proceedings of the ICE - Civil Engineering		1751-7672	1992	92	1	2000	138	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xcien.html				fulltext			
+Proceedings of the ICE - Civil Engineering			2001	144	1	2001	144	6	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xcien.html				fulltext			
+Proceedings of the ICE - Geotechnical Engineering	1353-2618		2001	149	1	2001	149	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xgeng.html				fulltext			
+Proceedings of the ICE - Geotechnical Engineering	1353-2618	1751-8563	1994	107	1	1998	131	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xgeng.html				fulltext			
+Proceedings of the ICE - Municipal Engineer	0965-0903		2001	145	1	2001	145	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xmuen.html				fulltext			
+Proceedings of the ICE - Municipal Engineer	0965-0903	1751-7699	1992	93	1	2000	139	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xmuen.html				fulltext			
+Proceedings of the ICE - Structures and Buildings	0965-0911		2001	146	1	2001	146	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xstbu.html				fulltext			
+Proceedings of the ICE - Structures and Buildings	0965-0911	1751-7702	1992	94	1	2000	140	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xstbu.html				fulltext			
+Proceedings of the ICE - Transport		1751-7710	1992	95	1	2000	141	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xtran.html				fulltext			
+Proceedings of the ICE - Transport			2001	147	3	2001	147	3	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xtran.html				fulltext			
+Proceedings of the ICE - Water and Maritime Engineering	1472-4561		2001	148	4	2001	148	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xwama.html				fulltext			
+Proceedings of the ICE - Water and Maritime Engineering	1472-4561		2001	148	1	2001	148	3	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xwama.html				fulltext			
+Proceedings of the ICE - Water and Maritime Engineering	1472-4561	1753-7800	2000	142	1	2000	142	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/xwama.html				fulltext			
+Proceedings of the ICE - Water Maritime and Energy		1753-7819	1992	96	1	1999	136	4	http://www.jiscjournalarchives.ac.uk/browse/ice/titles/iwtme.html				fulltext			
+Proceedings of the Institute of Chemistry of Great Britain and Ireland	0368-3958		1877	1		1919	43		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/PG.html				fulltext			
+Proceedings of the Malacological Society of London	0260-1230	1464-3766	1893	1	1	1995	61	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/mollus.html				fulltext			
+Proceedings of the Nutrition Society	0029-6651	1475-2719	1944	1	1-2	1947	5	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PNS.html				fulltext			
+Proceedings of the Nutrition Society	0029-6651	1475-2719	1953	12	1	2006	65	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PNS.html				fulltext			
+Proceedings of the Physical Society	0959-5309		1926	39	1	1948	61	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0370-1328.html				fulltext			
+Proceedings of the Physical Society	0370-1328		1958	71	1	1967	92	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0370-1328.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1874	1	1	1875	2	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1879	3	1	1880	4	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1882	5	1	1882	5	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1884	6	1	1888	10	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1890	11	1	1890	11	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1892	12	1	1892	12	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1894	13	1	1897	16	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1899	17	1	1899	17	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1901	18	1	1903	19	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1906	20	1	1907	21	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society of London	1478-7814		1909	22	1	1925	38	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1478-7814.html				fulltext			
+Proceedings of the Physical Society. Section A	0370-1298		1949	62	1	1957	70	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0370-1298.html				fulltext			
+Proceedings of the Physical Society. Section B	0370-1301		1949	62	1	1957	70	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0370-1301.html				fulltext			
+Proceedings of the Society for Analytical Chemistry	0037-9697		1964	1	1	1974	11	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/SA.html				fulltext			
+Protein Engineering Design and Selection	1741-0126	1741-0134	1986	1	1	1995	8	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/proeng.html				fulltext			
+Psychological Medicine	0033-2917	1469-8978	1970	1	1	1996	26	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PSM.html				fulltext			
+Psychological Medicine. Monograph Supplement	0264-1801		1982	1		1993	24		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PMS.html				fulltext			
+Public Health Nutrition	1368-9800	1475-2727	1998	1	1	2006	9	8A	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/PHN.html				fulltext			
+Public Interest	0033-3557		1965		1	1995		121	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/g035.html				fulltext			
+Public Opinion Quarterly		1537-5331	1937	1	1	1995	59	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/pubopq.html				fulltext			
+Publius	0048-5950	1747-7107	1971	1	1	1995	25	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/publius.html				fulltext			
+Pure and Applied Optics: Journal of the European Optical Society Part A	0963-9659		1992	1	1	1998	7	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0963-9659.html				fulltext			
+QJM	1460-2725	1460-2393	1907	os1	1	1913	os6	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/qjmed.html				fulltext			
+QJM	1460-2725	1460-2393	1932	1	1	1995	88	12	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/qjmed.html				fulltext			
+Quaerendo	0014-9527	1570-0690	1971	1	1	2008	38	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00149527.html				fulltext			
+Quantum and Semiclassical Optics: Journal of the European Optical Society Part B	1355-5111		1995	7	1	1998	10	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1355-5111.html				fulltext			
+Quantum Optics: Journal of the European Optical Society Part B	0954-8998		1989	1	1	1994	6	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0954-8998.html				fulltext			
+Quarterly Journal of the Chemical Society	1743-6893		1849	1	1	1862	14		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/QJ.html				fulltext			
+Quarterly Review of the Chemical Society	0009-2681		1947	1	1	1971	25	1	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/QR.html				fulltext			
+Quarterly Reviews of Biophysics	0033-5835	1469-8994	1968	1	1	1985	18	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/QRB.html				fulltext			
+Quarterly Reviews of Biophysics	0033-5835	1469-8994	1987	19	1-2	1996	29	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/QRB.html				fulltext			
+Radiation Protection Dosimetry	0144-8420	1742-3406	1981	1	1	1995	62	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/rpd.html				fulltext			
+ReCALL	0958-3440	1474-0109	1989	1	1	1999	11	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/REC.html				fulltext			
+Refugee Survey Quarterly	1020-4067		1982	1	1	1995	14	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/refqtl.html				fulltext			
+Regional Studies	0034-3404	1360-0591	1967	1	1	1996	30	8	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cres20.html				fulltext			
+Religion and the Arts	1079-9265	1568-5292	1996	1	1	1996	1	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/10799265.html				fulltext			
+Religion and the Arts	1079-9265	1568-5292	1998	2	1	2008	12	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/10799265.html				fulltext			
+Religion and Theology	1023-0807	1574-3012	1994	1	1	2004	11	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/10230807.html				fulltext			
+Religion and Theology	1023-0807	1574-3012	2006	12	3	2008	15	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/10230807.html				fulltext			
+Religious Studies	0034-4125		1965	1	1	1996	32	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RES.html				fulltext			
+Renascence	0034-4346			17	2		40	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1190.html				fulltext			
+Renascence	0034-4346		1948	1	1	1996	48	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1190.html				fulltext			
+Reports on Progress in Physics	0034-4885		1934	1	1	1942	9	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0034-4885.html				fulltext			
+Reports on Progress in Physics	0034-4885		1944	10	1	1944	10	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0034-4885.html				fulltext			
+Reports on Progress in Physics	0034-4885		1947	11	1	1947	11	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0034-4885.html				fulltext			
+Reports on Progress in Physics	0034-4885		1949	12	1	1998	61	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0034-4885.html				fulltext			
+Reproductive Medicine Review	0962-2799	1469-9028	1992	1	1	1997	6	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RMR.html				fulltext			
+Research in Phenomenology	0085-5553	1569-1640	1971	1	1	2008	38	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00855553.html				fulltext			
+Research on Chemical Intermediates	0922-6168	1568-5675	1989	11	2	1999	25	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09226168.html				fulltext			
+Research on Chemical Intermediates	0922-6168	1568-5675	2001	27	1	2008	34	8	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09226168.html				fulltext			
+Review of Central and East European Law	0925-9880	1573-0352	1976	2	1	1980	6	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09259880.html				fulltext			
+Review of Central and East European Law	0925-9880	1573-0352	1992	18	1	2008	33	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09259880.html				fulltext			
+Review of Financial Studies	0893-9454	1465-7368	1988	1	1	1995	8	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/revfin.html				fulltext			
+Review of International Studies	0260-2105	1469-9044	1975	1	1	1996	22	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RIS.html				fulltext			
+Review of Metaphysics	0034-6632		1947	1		1991	44	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1193.html				fulltext			
+Review of Physics in Technology	0034-6683		1970	1	1	1972	3	3	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0034-6683.html				fulltext			
+Review of Rabbinic Judaism	1568-4857	1570-0704	1998	1	1	2008	11	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/15684857.html				fulltext			
+Reviews in Clinical Gerontology	0959-2598	1469-9036	1991	1	1	1996	6	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RCG.html				fulltext			
+Revista Internacional de la Cruz Roja			1976	1	1	1998	23	148	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RCS.html				fulltext			
+Robotica	0263-5747	1469-8668	1983	1	1	1996	14	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ROB.html				fulltext			
+Romance Philology	0035-8002		1947	1		1996	49	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3227.html				fulltext			
+Royal Institute of Chemistry Reviews	0035-8940		1968	1	1	1971	4	2	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/RR.html				fulltext			
+Rural History	0956-7933	1474-0656	1990	1	1	2001	12	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RUH.html				fulltext			
+SAIS Review	0036-0775		1959	3	2	1975	19	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z244.html				fulltext			
+SAIS Review	0036-0775		1981	1	1	1995	15	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/z244.html				fulltext			
+Scandinavian Housing and Planning Research	0281-5737		1984	1	1	1996	13	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/shou19.html				fulltext			
+Science in Context	0269-8897	1474-0664	1987	1	1	1989	3	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SIC.html				fulltext			
+Science in Context	0269-8897	1474-0664	1991	4	1	2000	13	3-4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SIC.html				fulltext			
+Scottish Geographical Magazine	0036-9225		1885	1	1-3	1996	112	3	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rsgj19.html				fulltext			
+Scottish Journal of Theology	0036-9306	1475-3065	1948	1	1	2001	54	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SJT.html				fulltext			
+Screen	0036-9546	1460-2474	1969	10	1	1980	21	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/screen.html				fulltext			
+Screen	0036-9546	1460-2474	1982	23	1	1995	36	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/screen.html				fulltext			
+Seed Science Research	0960-2585	1475-2735	1991	1	1	1998	8	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SSR.html				fulltext			
+Selected Annual Reviews of the Analytical Sciences	0300-9963		1971	1		1974	4		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AS.html				fulltext			
+Semiconductor Science and Technology	0268-1242		1986	1	1	1998	13	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0268-1242.html				fulltext			
+Sloan Management Review			1991	33	1	1995	36	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/m158.html				fulltext			
+Smart Materials and Structures	0964-1726		1992	1	1	1998	7	6	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0964-1726.html				fulltext			
+Social History of Medicine		1477-4666	1988	1	1	1995	8	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/sochis.html				fulltext			
+Social Philosophy and Policy	0265-0525	1471-6437	1983	1	1	2001	18	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SOY.html				fulltext			
+Social Politics: International Studies in Gender, State and Society	1072-4745	1468-2893	1994	1	1	1995	2	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/socpol.html				fulltext			
+Social Research			1934	1	1	1960	27	1	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3313.html				fulltext			
+Social Research			1991	58	1	1995	62	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3313.html				fulltext			
+Social Service Review	0037-7961		1927	1	1	1995	69	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1205.html				fulltext			
+Society and Animals	1063-1119	1568-5306	1993	1	1	2008	16	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/10631119.html				fulltext			
+Southern Literary Journal	0038-4291		1968	1	1	1996	28	2	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/h323.html				fulltext			
+Spatial Vision	0169-1015	1568-5683	1985	1	1	2008	21	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/01691015.html				fulltext			
+Special Discussions of the Faraday Society	0370-9302		1970	1		1970	1		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/SD.html				fulltext			
+Statute Law Review	0144-3593	1464-3863	1980	1	3	1995	16	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/stalaw.html				fulltext			
+Studies in American Political Development		1469-8692	1986	1		1987	2		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SAP.html				fulltext			
+Studies in American Political Development		1469-8692	1989	3		1997	11	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SAP.html				fulltext			
+Studies in Philology	0039-3738		1906	1		1908	3		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1221.html				fulltext			
+Studies in Philology	0039-3738		1910	4		1913	11		http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1221.html				fulltext			
+Studies in Philology	0039-3738		1915	12		1990	87	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1221.html				fulltext			
+Studies in Romanticism	0039-3762		1961	1	1	1995	34	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b321.html				fulltext			
+Studies in Second Language Acquisition	0272-2631	1470-1545	1978	1	1	1996	18	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/SLA.html				fulltext			
+Studies in Short Fiction	0039-3789		1963	1	1	1995	32	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d565.html				fulltext			
+Superconductor Science and Technology	0953-2048		1988	1	1	1998	11	12	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0953-2048.html				fulltext			
+Symposia of the Faraday Society	0430-0696		1967	1		1971	5		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/SF.html				fulltext			
+Symposium; a Journal Devoted to Modern Foreign Languages and Literature	0039-7709		1946	1	1	1995	49	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/1222.html				fulltext			
+Systematic Biology	0039-7989		1952	1	1	1995	44	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/sysbio.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1890	1	1	1918	19	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1920	20	1	1920	20	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1922	21	1	1925	24	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1927	25	1	1927	25	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1929	26	1	1934	31	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1936	32	1	1940	36	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1942	37	1	1942	37	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1950	39	1	1954	43	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1956	44	1	1960	48	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+T'oung Pao	0082-5433	1568-5322	1962	49	1	2007	93	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00825433.html				fulltext			
+Teaching Mathematics and its Applications	0268-3679	1471-6976	1982	1	1	1995	14	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/teamat.html				fulltext			
+Tempo	0040-2982	1478-2286	1939		1	1939		4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TEM.html				fulltext			
+Tempo	0040-2982	1478-2286	1941		5	1941		5	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TEM.html				fulltext			
+Tempo	0040-2982	1478-2286	1944		6	2002		222	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TEM.html				fulltext			
+The Analyst	0003-2654	1364-5528	1876	1	1	2004	129	12	http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/AN.html				fulltext			
+The British Journal for the History of Science	0007-0874		1962	1	1	2000	33	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/BJH.html				fulltext			
+The British Journal for the Philosophy of Science	0007-0882	1464-3537	1966	17	2	1995	46	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/phisci.html				fulltext			
+The British Journal of Aesthetics	0007-0904	1468-2842	1960	ONE	1	1995	35	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/aesthj.html				fulltext			
+The Cambridge Law Journal	0008-1973	1469-2139	1921	1	1	1939	7	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CLJ.html				fulltext			
+The Cambridge Law Journal	0008-1973	1469-2139	1941	7	2	1997	56	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CLJ.html				fulltext			
+The Cambridge Quarterly		1471-6836	1965	I	1	1995	XXIV	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/camquj.html				fulltext			
+The Classical Quarterly	0009-8388	1471-6844	1907	1	1	2000	50	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CAQ.html				fulltext			
+The Classical Review		1464-3561	1887	1	1	1933	47	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CAR.html				fulltext			
+The Classical Review		1464-3561	1951	1	1	1997	47	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/CAR.html				fulltext			
+The English Historical Review	0013-8266	1477-4534	1886	I	I	1995	CX	439	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/enghis.html				fulltext			
+The European Journal of Orthodontics	0141-5387	1460-2210	1979	1	1	1995	17	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eortho.html				fulltext			
+The European Journal of Public Health	1101-1262		1991	1	1	1995	5	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/eurpub.html				fulltext			
+The Gerontologist	0016-9013	1758-5341	1961	1	1	1970	10	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/geront.html				fulltext			
+The Gerontologist	0016-9013	1758-5341	1972	12	4	1995	35	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/geront.html				fulltext			
+The Historical Journal		1469-5103	1958	1	1	1996	39	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/HIS.html				fulltext			
+The International Journal of Children's Rights	0927-5568	1571-8182	1993	1	2	2008	16	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09275568.html				fulltext			
+The International Journal of Marine and Coastal Law	0927-3522	1571-8085	1990	5	1	1990	5	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09273522.html				fulltext			
+The International Journal of Marine and Coastal Law	0927-3522	1571-8085	1993	8	1	2008	23	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/09273522.html				fulltext			
+The Journal of African History	0021-8537	1469-5138	1960	1	1	1996	37	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AFH.html				fulltext			
+The Journal of Agricultural Science	0021-8596	1469-5146	1905	1	1	1996	127	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/AGS.html				fulltext			
+The Journal of Architecture	1360-2365	1466-4410	1996	1	1	1996	1	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/rjar20.html				fulltext			
+The Journal of Ecclesiastical History	0022-0469	1469-7637	1950	1	1	1997	48	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ECH.html				fulltext			
+The Journal of Economic History	0022-0507	1471-6372	1941	1	S1	2000	60	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JEH.html				fulltext			
+The Journal of Laryngology & Otology	1755-1463	1748-5640							http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JLO.html				fulltext			
+The Journal of Laryngology & Otology	1755-1463	1748-5640	1887	1	1	1946	61	12	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JLO.html				fulltext			
+The Journal of Laryngology & Otology	1755-1463	1748-5640	1948	62	1	2005			http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JLO.html				fulltext			
+The Journal of Medicine and Philosophy	0360-5310	1744-5019	1976	1	1	1995	20	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/jmp.html				fulltext			
+The Journal of Modern African Studies		1469-7777	1963	1	1	1996	34	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/MOA.html				fulltext			
+The Journal of Politics	0022-3816	1468-2508	1939	1	1	1999	61	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/JOP.html				fulltext			
+The Journal of the Australian Mathematical Society. Series B. Applied Mathematics	1446-1811	1446-8735	1975	19	1	2008	49	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ANZ.html				fulltext			
+The Journal of Theological Studies	0022-5185	1477-4607	1981	32	2	1981	32	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/theolj.html				fulltext			
+The Journal of Theological Studies	0022-5185	1477-4607	1983	34	1	1995	46	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/theolj.html				fulltext			
+The Journals of Gerontology Series A: Biological Sciences and Medical Sciences	1079-5006		1995	50A	1	1995	50A	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/gerona.html				fulltext			
+The Journals of Gerontology Series B: Psychological Sciences and Social Sciences	1079-5014	1758-5368	1995	50B	1	1995	50B	6	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/geronb.html				fulltext			
+The Knowledge Engineering Review	0269-8889	1469-8005	1984	1	1	1984	1	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/KER.html				fulltext			
+The Knowledge Engineering Review	0269-8889	1469-8005	1987	2	1	1996	11	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/KER.html				fulltext			
+The Legal History Review	0040-7585	1571-8190	1918	1	1	1918	1	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00407585.html				fulltext			
+The Legal History Review	0040-7585	1571-8190	1920	1	2	1944	25	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00407585.html				fulltext			
+The Legal History Review	0040-7585	1571-8190	1958	26	1	1958	30	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00407585.html				fulltext			
+The Legal History Review	0040-7585	1571-8190	1965	33	1	2008	76	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00407585.html				fulltext			
+The Leo Baeck Institute Yearbook	0075-8744		1956	1	1	1995	40	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/lbaeck.html				fulltext			
+The Lichenologist	0024-2829	1096-1135	1958	1	1	2003	35	5-6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/LIC.html				fulltext			
+The Musical Quarterly	0027-4631	1741-8399	1989	73	1	1995	79	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/musqtl.html				fulltext			
+The Opera Quarterly	0736-0053	1476-2870	1983	1	1	1995	11	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/operaq.html				fulltext			
+The Oral History Review	0094-0798	1533-8592	1973	1	1	1993	21	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ohr.html				fulltext			
+The Oral History Review	0094-0798	1533-8592	1995	22	1	1995	22	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ohr.html				fulltext			
+The Quarterly Journal of Mathematics	0033-5606	1464-3847	1950	1	1	1995	46	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/qmathj.html				fulltext			
+The Quarterly Journal of Mechanics and Applied Mathematics	0033-5614	1464-3855	1948	1	1	1995	48	4	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/qjmamj.html				fulltext			
+The Review of English Studies	0034-6551	1471-6968	1925	os-I	1	1937	os-XIII	52	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/revesj.html				fulltext			
+The Review of English Studies	0034-6551	1471-6968	1939	os-XV	57	1946	os-XXII	88	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/revesj.html				fulltext			
+The Review of English Studies	0034-6551	1471-6968	1948	os-XXIV	93	1948	os-XXIV	96	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/revesj.html				fulltext			
+The Review of English Studies	0034-6551	1471-6968	1950	I	1	1995	XLVI	184	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/revesj.html				fulltext			
+The Review of Politics	0034-6705	1748-6858	1939	1	1	2005	67	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ROP.html				fulltext			
+The World Bank Economic Review	0258-6770		1986	1	1	1995	9	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/wber.html				fulltext			
+The World Bank Research Observer	0257-3032	1564-6971	1986	1	1	1995	10	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/wbro.html				fulltext			
+The Year's Work in Critical and Cultural Theory	1077-4254		1991	1	1	1995	5	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywcct.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1919	1	1	1919	1	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1922	3	1	1922	3	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1924	5	1	1924	5	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1927	8	1	1927	8	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1961	42	1	1961	42	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1967	48	1	1976	57	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+The Year's Work in English Studies	0084-4144	1471-6801	1978	59	1	1995	76	1	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/ywes.html				fulltext			
+Theatre Research International	0307-8833	1474-0672	1975	1	1	2000	25	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TRI.html				fulltext			
+Theatre Survey	0040-5574	1475-4533	1964	5	1	2000	41	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TSY.html				fulltext			
+Theological Studies	0040-5639		1940	1		1995	56	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/3258.html				fulltext			
+Think	1477-1756	1755-1196	2002	1	1	2007	5	15	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/THI.html				fulltext			
+Toxicological Sciences	1096-6080	1096-0929	1981	1	1	1995	28	2	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/toxsci.html				fulltext			
+Transactions of the Faraday Society	0014-7672		1905	1	January	1971	67		http://www.jiscjournalarchives.ac.uk/browse/rsc/titles/TF.html				fulltext			
+Transactions of the Optical Society	1475-4878		1899	1	1	1911	13	1	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1475-4878.html				fulltext			
+Transactions of the Optical Society	1475-4878		1913	14	1	1931	33	5	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/1475-4878.html				fulltext			
+Transactions of the Royal Asiatic Society of Great Britain and Ireland	0950-4737		1830	2	1	1831	3	1	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TRA.html				fulltext			
+Transactions of the Royal Asiatic Society of Great Britain and Ireland	0950-4737		1833	3	2	1834	3	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/TRA.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1872	1		1874	3		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1876	4		1878	7		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1880	8		1882	10		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1884	1	4	1886	3	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1889	4		1889	4		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1891	5		1937	20		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transactions of the Royal Historical Society	0080-4401	1474-0648	1939	21		1999	9		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/RHT.html				fulltext			
+Transport Reviews	0144-1647	1464-5327	1981	1	1	1996	16	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/ttrv20.html				fulltext			
+Transportation Planning and Technology	0308-1060	1029-0354	1972	1	1	1996	20	1	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/gtpt20.html				fulltext			
+Trusts & Trustees	1752-2110	1363-1780	1994	1	1	1995	1	10	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/tandt.html				fulltext			
+Twentieth Century British History	0955-2359	1477-4674	1990	1	1	1995	6	3	http://www.jiscjournalarchives.ac.uk/browse/oup/titles/tweceb.html				fulltext			
+Urban History	0963-9268	1469-8706	1974	1		1998	25	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/UHY.html				fulltext			
+Urban Policy and Research	0811-1146	1476-7244	1982	1	1	1996	14	4	http://www.jiscjournalarchives.ac.uk/browse/tf/titles/cupr20.html				fulltext			
+Utilitas	0953-8208	1741-6183	1989	1	1	2003	15	3	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/UTI.html				fulltext			
+Vetus Testamentum	0042-4935	1568-5330	1951	1	1	2008	58	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00424935.html				fulltext			
+Victorian Literature and Culture	1060-1503	1470-1553	1997	25	1	1998	26	2	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/VLC.html				fulltext			
+Victorian Poetry	0042-5206		1963	1	1	1990	28	3	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/d580.html				fulltext			
+Vigiliae Christianae	0042-6032	1570-0720	1947	1	1	1963	17	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00426032.html				fulltext			
+Vigiliae Christianae	0042-6032	1570-0720	1965	19	1	1965	19	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00426032.html				fulltext			
+Vigiliae Christianae	0042-6032	1570-0720	1967	21	1	1967	21	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00426032.html				fulltext			
+Vigiliae Christianae	0042-6032	1570-0720	1969	23	1	1973	27	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00426032.html				fulltext			
+Vigiliae Christianae	0042-6032	1570-0720	1975	28	1	2008	62	5	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00426032.html				fulltext			
+Visual Neuroscience	0952-5238	1469-8714	1988	1	1	1997	14	6	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/VNS.html				fulltext			
+Vivarium	0042-7543	1568-5349	1963	1	1	2008	46	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00427543.html				fulltext			
+Waves in Random Media	0959-7174		1991	1	1	1998	8	4	http://www.jiscjournalarchives.ac.uk/browse/iop/titles/0959-7174.html				fulltext			
+Western Economic Journal	0095-2583		1962	1	1	1995	33	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/b097.html				fulltext			
+Wordsworth Circle	0043-8006		1970	1	1	1990	21	4	http://www.jiscjournalarchives.ac.uk/browse/proquest/titles/h340.html				fulltext			
+World Views: Environment, Culture, Religion	1363-5247	1568-5357	1997	1	1	2008	12	1	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/13635247.html				fulltext			
+World's Poultry Science Journal	0043-9339	1743-4777	1945	1	1	2003	59	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/WPS.html				fulltext			
+Yearbook of International Humanitarian Law	1389-1359		1998	1		2003	6		http://www.jiscjournalarchives.ac.uk/browse/cup/titles/YHL.html				fulltext			
+Zeitschrift für Religions- und Geistesgeschichte	0044-3441	1570-0739	1951	3	1	1974	26	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00443441.html				fulltext			
+Zeitschrift für Religions- und Geistesgeschichte	0044-3441	1570-0739	1978	30	1	2000	52	2	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00443441.html				fulltext			
+Zeitschrift für Religions- und Geistesgeschichte	0044-3441	1570-0739	2002	54	1	2002	54	3	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00443441.html				fulltext			
+Zeitschrift für Religions- und Geistesgeschichte	0044-3441	1570-0739	2007	59	3	2008	60	4	http://www.jiscjournalarchives.ac.uk/browse/brill/titles/00443441.html				fulltext			
+Zygote	0967-1994	1469-8730	1993	1	1	1997	5	4	http://www.jiscjournalarchives.ac.uk/browse/cup/titles/ZYG.html				fulltext			
