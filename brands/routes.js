@@ -8,10 +8,10 @@ var routes = {
   "faq"                                 : "support/faq.html",
   "help"                                : "support/help.html",
   "librarians"                          : "support/librarians.html",
-  "sitemap"                             : "sitemap/sitemap.html",
-  "terms"                               : "terms_of_use/termsofuse.html",
+  "sitemap"                             : "about/sitemap.html",
+  "terms"                               : "about/termsofuse.html",
   "britishlibrary/sparerib/ethicaluse"  : "sparerib/about/ethicaluse.html",
-  "accessibility"                       : "accessibility/accessibility.html",
-  "privacy"                             : "privacy_and_cookies/privacyandcookies.html",
+  "accessibility"                       : "about/accessibility.html",
+  "privacy"                             : "about/privacyandcookies.html",
   "quickref"                            : "support/quickref.html"  
 };
