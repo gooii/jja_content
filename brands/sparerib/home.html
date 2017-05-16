@@ -1,72 +1,146 @@
-<div class="row spare-rib">
+<div class="home">
+  <!-- Container for any transcluded content; i.e., search form -->
+  <div class="transcluded" data-ng-transclude></div>
+  <!-- Default homepage content -->
+  <div class="row spare-rib">
     <div class="col-xs-12">
-        <div class="results">
-            <div class="left">
-                <div class="resultsTitle">
-                    Part of Journal Archives
-                </div>
+      <div class="results">
+        <div class="left">
+          <div class="resultsTitle">
+            Part of Journal Archives
+          </div>
+          <p>
+            As well as Spare Rib, Journal Archives contains the backfiles from 8 major publishers: Brill, Institution of Civil Engineers, Institute of Physics, ProQuest, Oxford University Press, Cambridge University Press, the Royal Society of Chemistry and Taylor and Francis.
+          </p>
+          <p><em>Spare Rib is freely available.</em></p>
+          <p>
+            <em>The rest of Journal Archives can be searched, but access to view and download articles is only available to UK HE and FE Institutions and Research Councils via <a href="http://journalarchives.jisc.ac.uk/about/">subscription</a>.</em>
+          </p>
+          <br/><br/>
+          <div class="thumbnail large">
+            <div class="text">
+              <div class="title">Contact Us</div>
+              <div class="contactBox">
                 <p>
-                    As well as Spare Rib, Journal Archives contains the backfiles from 8 major publishers: Brill, Institution of Civil Engineers, Institute of Physics, ProQuest, Oxford University Press, Cambridge University Press, the Royal Society of Chemistry and Taylor and Francis.
+                  For enquiries about Spare Rib contact the <a href="http://bl.uk/spare-rib/">British Library</a>
                 </p>
-                <p><em>Spare Rib is freely available.</em></p>
                 <p>
-                    <em>The rest of Journal Archives can be searched, but access to view and download articles is only available to UK HE and FE Institutions and Research Councils via <a href="http://journalarchives.jisc.ac.uk/about/">subscription</a>.</em>
+                  For enquiries about Journal Archives contact the Journal Archives helpdesk&#58;
                 </p>
-                <br/><br/>
-                <div class="thumbnail large">
-                    <div class="text">
-                        <div class="title">Contact Us</div>
-                        <div class="contactBox">
-                        <p>
-                                For enquiries about Spare Rib contact the <a href="http://bl.uk/spare-rib/">British Library</a>
-                            </p>
-                            <p>
-                                For enquiries about Journal Archives contact the Journal Archives helpdesk&#58;
-                            </p>
-                            <a href="mailto:journalarchives@jisc.ac.uk"><strong>journalarchives@jisc.ac.uk</strong></a>
-                            <p class="social">
-                                <a href="http://www.facebook.com/jiscjournalarchives">Facebook</a> <a href="http://twitter.com/JournalArchives" class="tw">Twitter</a>
-                            </p>                      
-                        </div>
-                    </div>
-                </div>
-                <div class="thumbnail large">
-                    <a class="image" href="/support">
-                    <img src="/images/home/feature/htvideofeature.jpg"/>
-                    </a>
-                    <div class="text">
-                        <div class="title">Introducing Journal Archives</div>
-                        <p>For a quick tour of the key features available please see our
-                            support page for a
-                            short introductory video.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="main-content">
-              <!-- Row 1 -->
-              <div class="row">
-                  <alert type="info">
-                      You are searching only <b>Spare Rib</b> <a ng-style="{'padding-left': '20px'}" data-ng-href="/">Search the whole of Journal Archives</a>
-                  </alert>
-                  <div class="whiteBox">
-                      <img ng-style="{'margin-bottom': '20px'}" class="banner" src="/images/sparerib/banner.jpg"/>
-                      <h4>
-                          Search and Browse every edition of Spare Rib
-                      </h4>
-                      <p ng-style="{'margin-bottom': '20px'}"><i>Spare Rib</i> was an active part of the emerging Women&#39;s Liberation Movement in the late 20th century. Running from 1972&#45;93, this now iconic magazine challenged the stereotyping and exploitation of women, while supporting collective, realistic solutions to the hurdles women faced.</p> 
-										 
-					 <p ng-style="{'margin-bottom': '20px'}">Visitors to this site can explore selected highlights from the magazine&#59; and examine how the magazine was run, why it was started and the issues it dealt with. The full run of Spare Rib magazines can be accessed via <a href="https://journalarchives.jisc.ac.uk/britishlibrary/sparerib">https&#58;&#47;&#47;www.journalarchives.jisc.ac.uk&#47britishlibrary&#47;sparerib.</a></p>
-					 
-	  					  
-					  <p ng-style="{'margin-bottom': '20px'}"><b>Important information for researchers&#58;</b> Some material from the Spare Rib magazines on the Journal Archives site has been redacted until the Library is able to secure further copyright permissions. More information on the redactions can be found here&#58; <a href="http://www.bl.uk/spare-rib/about-the-project">http&#58;&#47;&#47;www.bl.uk&#47;spare&#45;rib&#47;about&#45;the&#45;project</a></p>
-					  
-			
-                      <!-- Renders spare rib volumes in issue number (ascending) order within published year order (ascending) -->
-                      <jja:ui:sparerib-browse></jja:ui:sparerib-browse>
-                  </div>
+                <a href="mailto:journalarchives@jisc.ac.uk"><strong>journalarchives@jisc.ac.uk</strong></a>
+                <p class="social">
+                  <a href="http://www.facebook.com/jiscjournalarchives">Facebook</a> <a href="http://twitter.com/JournalArchives" class="tw">Twitter</a>
+                </p>
               </div>
             </div>
+          </div>
+          <div class="thumbnail large">
+            <a class="image" href="/support">
+              <img src="/images/home/feature/htvideofeature.jpg"/>
+            </a>
+            <div class="text">
+              <div class="title">Introducing Journal Archives</div>
+              <p>For a quick tour of the key features available please see our
+                support page for a
+                short introductory video.
+              </p>
+            </div>
+          </div>
         </div>
+        <div class="main-content">
+          <!-- Row 1 -->
+          <div class="row">
+            <alert type="info">
+              You are searching only <b>Spare Rib</b> <a ng-style="{'padding-left': '20px'}" data-ng-href="/">Search the whole of Journal Archives</a>
+            </alert>
+            <div class="whiteBox">
+              <img ng-style="{'margin-bottom': '20px'}" class="banner" src="/images/sparerib/banner.jpg"/>
+              <h4>
+                Search and Browse every edition of Spare Rib
+              </h4>
+              <p ng-style="{'margin-bottom': '20px'}"><i>Spare Rib</i> was an active part of the emerging Women&#39;s Liberation Movement in the late 20th century. Running from 1972&#45;93, this now iconic magazine challenged the stereotyping and exploitation of women, while supporting collective, realistic solutions to the hurdles women faced.</p>
+
+					    <p ng-style="{'margin-bottom': '20px'}">Visitors to this site can explore selected highlights from the magazine&#59; and examine how the magazine was run, why it was started and the issues it dealt with. The full run of Spare Rib magazines can be accessed via <a href="https://journalarchives.jisc.ac.uk/britishlibrary/sparerib">https&#58;&#47;&#47;www.journalarchives.jisc.ac.uk&#47britishlibrary&#47;sparerib.</a></p>
+
+
+					    <p ng-style="{'margin-bottom': '20px'}"><b>Important information for researchers&#58;</b> Some material from the Spare Rib magazines on the Journal Archives site has been redacted until the Library is able to secure further copyright permissions. More information on the redactions can be found here&#58; <a href="http://www.bl.uk/spare-rib/about-the-project">http&#58;&#47;&#47;www.bl.uk&#47;spare&#45;rib&#47;about&#45;the&#45;project</a></p>
+
+
+              <!-- Renders spare rib volumes in issue number (ascending) order within published year order (ascending) -->
+              <jja:ui:sparerib-browse></jja:ui:sparerib-browse>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row spare-rib">
+      <div class="col-xs-12">
+        <div class="results">
+          <div class="left">
+            <div class="resultsTitle">
+              Part of Journal Archives
+            </div>
+            <p>
+              As well as Spare Rib, Journal Archives contains the backfiles from 8 major publishers: Brill, Institution of Civil Engineers, Institute of Physics, ProQuest, Oxford University Press, Cambridge University Press, the Royal Society of Chemistry and Taylor and Francis.
+            </p>
+            <p><em>Spare Rib is freely available.</em></p>
+            <p>
+              <em>The rest of Journal Archives can be searched, but access to view and download articles is only available to UK HE and FE Institutions and Research Councils via <a href="http://journalarchives.jisc.ac.uk/about/">subscription</a>.</em>
+            </p>
+            <br/><br/>
+            <div class="thumbnail large">
+              <div class="text">
+                <div class="title">Contact Us</div>
+                <div class="contactBox">
+                  <p>
+                    For enquiries about Spare Rib contact the <a href="http://bl.uk/spare-rib/">British Library</a>
+                  </p>
+                  <p>
+                    For enquiries about Journal Archives contact the Journal Archives helpdesk&#58;
+                  </p>
+                  <a href="mailto:journalarchives@jisc.ac.uk"><strong>journalarchives@jisc.ac.uk</strong></a>
+                  <p class="social">
+                    <a href="http://www.facebook.com/jiscjournalarchives">Facebook</a> <a href="http://twitter.com/JournalArchives" class="tw">Twitter</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="thumbnail large">
+              <a class="image" href="/support">
+                <img src="/images/home/feature/htvideofeature.jpg"/>
+              </a>
+              <div class="text">
+                <div class="title">Introducing Journal Archives</div>
+                <p>For a quick tour of the key features available please see our
+                  support page for a
+                  short introductory video.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="main-content">
+            <!-- Row 1 -->
+            <div class="row">
+              <alert type="info">
+                You are searching only <b>Spare Rib</b> <a ng-style="{'padding-left': '20px'}" data-ng-href="/">Search the whole of Journal Archives</a>
+              </alert>
+              <div class="whiteBox">
+                <img ng-style="{'margin-bottom': '20px'}" class="banner" src="/images/sparerib/banner.jpg"/>
+                <h4>
+                  Search and Browse every edition of Spare Rib
+                </h4>
+                <p ng-style="{'margin-bottom': '20px'}"><i>Spare Rib</i> was an active part of the emerging Women&#39;s Liberation Movement in the late 20th century. Running from 1972&#45;93, this now iconic magazine challenged the stereotyping and exploitation of women, while supporting collective, realistic solutions to the hurdles women faced.</p>
+					      <p ng-style="{'margin-bottom': '20px'}">Visitors to this site can explore selected highlights from the magazine&#59; and examine how the magazine was run, why it was started and the issues it dealt with. The full run of Spare Rib magazines can be accessed via <a href="https://journalarchives.jisc.ac.uk/britishlibrary/sparerib">https&#58;&#47;&#47;www.journalarchives.jisc.ac.uk&#47britishlibrary&#47;sparerib.</a></p>
+					      <p ng-style="{'margin-bottom': '20px'}"><b>Important information for researchers&#58;</b> Some material from the Spare Rib magazines on the Journal Archives site has been redacted until the Library is able to secure further copyright permissions. More information on the redactions can be found here&#58; <a href="http://www.bl.uk/spare-rib/about-the-project">http&#58;&#47;&#47;www.bl.uk&#47;spare&#45;rib&#47;about&#45;the&#45;project</a></p>
+                <!-- Renders spare rib volumes in issue number (ascending) order within published year order (ascending) -->
+                <jja:ui:sparerib-browse></jja:ui:sparerib-browse>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
