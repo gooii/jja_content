@@ -13,7 +13,7 @@ var routes = {
   "britishlibrary/sparerib/ethicaluse"  : "sparerib/about/ethicaluse.html",
   "accessibility"                       : "about/accessibility.html",
   "privacy"                             : "about/privacyandcookies.html",
-  "survey"                              : "about/survey.html",
+  "surveys"                              : "about/surveys.html",
   "quickref"                            : "support/quickref.html",
   "browser"                             : "about/browser.html"     
 };
