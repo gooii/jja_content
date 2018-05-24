@@ -12,7 +12,8 @@ var routes = {
   "terms"                               : "about/termsofuse.html",
   "britishlibrary/sparerib/ethicaluse"  : "sparerib/about/ethicaluse.html",
   "accessibility"                       : "about/accessibility.html",
-  "privacy"                             : "about/privacyandcookies.html",
+  "privacy"                             : "about/privacy.html",
+  "cookies"                             : "about/cookies.html",
   "surveys"                              : "about/surveys.html",
   "quickref"                            : "support/quickref.html",
   "browser"                             : "about/browser.html"     
