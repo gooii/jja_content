@@ -16,5 +16,6 @@ var routes = {
   "cookies"                             : "about/cookies.html",
   "surveys"                              : "about/surveys.html",
   "quickref"                            : "support/quickref.html",
+  "titlelist"                           : "about/titlelist.html",
   "browser"                             : "about/browser.html"     
 };
