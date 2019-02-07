@@ -14,8 +14,10 @@ var routes = {
   "accessibility"                       : "about/accessibility.html",
   "privacy"                             : "about/privacy.html",
   "cookies"                             : "about/cookies.html",
-  "surveys"                              : "about/surveys.html",
+  "features"              		: "support/features.html",
+  "surveys"                             : "about/surveys.html",
   "quickref"                            : "support/quickref.html",
   "titlelist"                           : "about/titlelist.html",
+  "engineering"                  	: "features/engineering.html",
   "browser"                             : "about/browser.html"     
 };
