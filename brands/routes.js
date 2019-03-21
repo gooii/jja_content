@@ -10,7 +10,7 @@ var routes = {
   "librarians"                          : "support/librarians.html",
   "sitemap"                             : "about/sitemap.html",
   "terms"                               : "about/termsofuse.html",
-  "britishlibrary/sparerib/ethicaluse"  : "",
+  "britishlibrary/sparerib/ethicaluse"  : "sparerib/about/ethicaluse.html",
   "accessibility"                       : "about/accessibility.html",
   "privacy"                             : "about/privacy.html",
   "cookies"                             : "about/cookies.html",
@@ -19,12 +19,5 @@ var routes = {
   "quickref"                            : "support/quickref.html",
   "titlelist"                           : "about/titlelist.html",
   "engineering"                  		: "features/engineering.html",
-  "browser"                             : "about/browser.html",
-  "britishlibrary/sparerib/about"		: "",
-  "britishlibrary/sparerib/privacy"		: "",
-  "britishlibrary/sparerib/cookies"		: "",
-  "britishlibrary/sparerib/support"		: "",
-  "britishlibrary/sparerib/help"		: "",
-  "britishlibrary/sparerib/faq"			: "",
-  "britishlibrary/sparerib/quickref"	: ""
+  "browser"                             : "about/browser.html"
 };
