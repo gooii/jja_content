@@ -19,5 +19,6 @@ var routes = {
   "quickref"                            : "support/quickref.html",
   "titlelist"                           : "about/titlelist.html",
   "englishlit"                  		: "features/englishlit.html",
+  "history"                  			: "features/history.html",
   "browser"                             : "about/browser.html"     
 };
