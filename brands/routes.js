@@ -20,5 +20,6 @@ var routes = {
   "titlelist"                           : "about/titlelist.html",
   "englishlit"                  		: "features/englishlit.html",
   "history"                  			: "features/history.html",
+  "RS"                  				: "features/RS.html",
   "browser"                             : "about/browser.html"     
 };
